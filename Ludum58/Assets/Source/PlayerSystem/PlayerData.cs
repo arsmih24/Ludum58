@@ -6,5 +6,17 @@ public class PlayerData : MonoBehaviour
     public Rigidbody2D Rb { get; set; }
 
     [field: SerializeField]
-    public float Speed { get; set; }
+    public Animator Anim { get; set; }
+
+    [field: SerializeField]
+    public float WalkSpeed { get; set; }
+
+    [field: SerializeField]
+    public float SprintSpeed { get; set; }
+
+    [field: SerializeField]
+    public float SprintDuration { get; set; }
+
+    [field: SerializeField]
+    public float SprintRecharge { get; set; }
 }
