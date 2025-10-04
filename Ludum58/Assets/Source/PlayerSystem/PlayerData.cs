@@ -6,6 +6,9 @@ public class PlayerData : MonoBehaviour
     public Rigidbody2D Rb { get; set; }
 
     [field: SerializeField]
+    public SpriteRenderer Sr { get; set; }
+
+    [field: SerializeField]
     public Animator Anim { get; set; }
 
     [field: SerializeField]
