@@ -12,22 +12,21 @@ public class EnemyAI : MonoBehaviour
     [SerializeField] private float arrivalDist = 0.35f;   
     [SerializeField] private float flipSmooth = 0.15f;
 
-    
+    [Header("Ультрафиолет")]
+    private string _uvTag = "Ultraviolet";
+    private bool frozenByUV = false;
 
-    private NavMeshAgent agent;
-    private int currentWP = 0;
-    private bool chasing = false;
-    private Transform player;
-    private float currentScaleX = 1f;
-
-    //private const string _wayPointsTag = "WayPoint";
+    private NavMeshAgent _agent;
+    private int _currentWP = 0;
+    private bool _chasing = false;
+    private Transform _player;
+    private float _currentScaleX = 1f;
 
     private void Awake()
     {
-        //_wayPoints = GameObject.FindGameObjectsWithTag(_wayPointsTag);
-        agent = GetComponent<NavMeshAgent>();
-        agent.updateRotation = false;
-        agent.updateUpAxis = false;
+        _agent = GetComponent<NavMeshAgent>();
+        _agent.updateRotation = false;
+        _agent.updateUpAxis = false;
     }
 
     private void Start()
@@ -39,17 +38,18 @@ public class EnemyAI : MonoBehaviour
             return;
         }
 
-        agent.speed = patrolSpeed;
+        _agent.speed = patrolSpeed;
         GoToCurrentWaypoint();
     }
 
     private void Update()
     {
-        if (chasing && player)
-            agent.SetDestination(player.position);
+        if (frozenByUV) return;
+        if (_chasing && _player)
+            _agent.SetDestination(_player.position);
         else
         {
-            if (!agent.pathPending && agent.remainingDistance < arrivalDist)
+            if (!_agent.pathPending && _agent.remainingDistance < arrivalDist)
                 AdvanceWaypoint();
         }
 
@@ -58,41 +58,54 @@ public class EnemyAI : MonoBehaviour
 
     private void GoToCurrentWaypoint()
     {
-        agent.SetDestination(_wayPoints[currentWP].transform.position);
+        _agent.SetDestination(_wayPoints[_currentWP].transform.position);
     }
 
     private void AdvanceWaypoint()
     {
-        currentWP = (currentWP + 1) % _wayPoints.Length;
-        agent.SetDestination(_wayPoints[currentWP].transform.position);
+        _currentWP = (_currentWP + 1) % _wayPoints.Length;
+        _agent.SetDestination(_wayPoints[_currentWP].transform.position);
     }
 
     private void OnTriggerEnter2D(Collider2D col)
     {
-        if (!chasing && col.CompareTag("Player"))
+        if (col.CompareTag(_uvTag))
         {
-            player = col.transform;
-            chasing = true;
-            agent.speed = chaseSpeed;
+            frozenByUV = true;
+            _agent.isStopped = true;
+            return;
+        }
+
+        if (!_chasing && col.CompareTag("Player"))
+        {
+            _player = col.transform;
+            _chasing = true;
+            _agent.speed = chaseSpeed;
         }
     }
 
     private void OnTriggerExit2D(Collider2D col)
     {
-        if (chasing && col.CompareTag("Player"))
+        if (col.CompareTag(_uvTag))
         {
-            chasing = false;
-            agent.speed = patrolSpeed;
+            frozenByUV = false;
+            _agent.isStopped = false;
+            return;
+        }
 
+        if (_chasing && col.CompareTag("Player"))
+        {
+            _chasing = false;
+            _agent.speed = patrolSpeed;
             GoToCurrentWaypoint();
         }
     }
 
     private void HandleFacingDirection()
     {
-        Vector2 dir = agent.velocity.normalized;
+        Vector2 dir = _agent.velocity.normalized;
         if (dir.sqrMagnitude > 0.01f)
-            transform.right = dir;   // "лицо" спрайта должно быть направлено вдоль оси X
+            transform.right = dir;
     }
 
     private void OnDrawGizmos()
