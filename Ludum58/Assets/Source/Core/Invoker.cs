@@ -6,12 +6,15 @@ public class Invoker
 {
     private PlayerData _playerData;
     private PlayerMovement _playerMovement;
+    private PlayerInventory _playerController;
     private LightController _lightController;
 
-    public Invoker(PlayerData playerData, PlayerMovement playerMovement, LightController lightController) 
+    public Invoker(PlayerData playerData, PlayerMovement playerMovement, 
+                  PlayerInventory playerController, LightController lightController) 
     {
         _playerData = playerData;
         _playerMovement = playerMovement;
+        _playerController = playerController;
         _lightController = lightController;
     }
 
@@ -20,6 +23,11 @@ public class Invoker
         _playerMovement.Move(dir2, _playerData.Rb, _playerData.Sr, _playerData.Anim,
                             _playerData.WalkSpeed, _playerData.SprintSpeed,
                             _playerData.SprintDuration, _playerData.SprintRecharge, sprintHeld);
+    }
+
+    public void InvokeCollect() 
+    {
+        _playerController.Collect();
     }
 
     public void InvokeUvEnable() 
