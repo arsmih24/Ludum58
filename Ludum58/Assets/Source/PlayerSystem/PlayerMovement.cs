@@ -19,7 +19,11 @@ namespace PlayerSystem
                 if ((Mathf.Abs(dir.y) > Mathf.Abs(dir.x)) || (Mathf.Abs(dir.y) == Mathf.Abs(dir.x)))
                 {
                     if (dir.y > 0)
+                    {
                         anim.SetTrigger("MoveUp");
+                        anim.ResetTrigger("MoveDown");
+                        anim.ResetTrigger("MoveSide");
+                    }
 
                     else anim.SetTrigger("MoveDown");
                 }
