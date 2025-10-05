@@ -13,6 +13,7 @@ public class EnemyAI : MonoBehaviour
     [SerializeField] private float flipSmooth = 0.15f;
 
     [Header("Ультрафиолет")]
+    [SerializeField] private Collider2D uvCollider;
     private string _uvTag = "Ultraviolet";
     private bool frozenByUV = false;
 
@@ -31,6 +32,9 @@ public class EnemyAI : MonoBehaviour
 
     private void Start()
     {
+        GameObject uvObj = GameObject.FindGameObjectWithTag(_uvTag);
+        uvCollider = uvObj?.GetComponent<Collider2D>();
+
         if (_wayPoints.Length == 0)
         {
             Debug.LogWarning("Waypoints не заданы!", this);
@@ -44,6 +48,21 @@ public class EnemyAI : MonoBehaviour
 
     private void Update()
     {
+        if (uvCollider != null)
+        {
+            bool intersects = GetComponent<Collider2D>().IsTouching(uvCollider);
+            if (intersects && !frozenByUV)
+            {
+                frozenByUV = true;
+                _agent.isStopped = true;
+            }
+            else if (!intersects && frozenByUV)
+            {
+                frozenByUV = false;
+                _agent.isStopped = false;
+            }
+        }
+
         if (frozenByUV) return;
         if (_chasing && _player)
             _agent.SetDestination(_player.position);
@@ -69,13 +88,6 @@ public class EnemyAI : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D col)
     {
-        if (col.CompareTag(_uvTag))
-        {
-            frozenByUV = true;
-            _agent.isStopped = true;
-            return;
-        }
-
         if (!_chasing && col.CompareTag("Player"))
         {
             _player = col.transform;
@@ -86,13 +98,6 @@ public class EnemyAI : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D col)
     {
-        if (col.CompareTag(_uvTag))
-        {
-            frozenByUV = false;
-            _agent.isStopped = false;
-            return;
-        }
-
         if (_chasing && col.CompareTag("Player"))
         {
             _chasing = false;
@@ -100,6 +105,26 @@ public class EnemyAI : MonoBehaviour
             GoToCurrentWaypoint();
         }
     }
+
+    /*private void OnCollisionEnter(Collision2D col)
+    {
+        if (col.CompareTag(_uvTag))
+        {
+            frozenByUV = true;
+            _agent.isStopped = true;
+            return;
+        }
+    }
+
+    private void OnCollisionExit(Collision2D col)
+    {
+        if (col.CompareTag(_uvTag))
+        {
+            frozenByUV = false;
+            _agent.isStopped = false;
+            return;
+        }
+    }*/
 
     private void HandleFacingDirection()
     {
