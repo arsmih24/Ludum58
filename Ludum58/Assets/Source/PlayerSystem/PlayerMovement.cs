@@ -12,11 +12,28 @@ namespace PlayerSystem
                     float walkSpeed, float sprintSpeed, float sprintDuration, float sprintRecharge, bool sprintHeld)
         {
             bool moving = dir != Vector2.zero;
+            anim.SetBool("IsMoving", moving);
 
-            //anim.SetBool("IsMoving", moving);
             if (moving)
             {
-                sr.flipX = dir.x < 0;
+                if ((Mathf.Abs(dir.y) > Mathf.Abs(dir.x)) || (Mathf.Abs(dir.y) == Mathf.Abs(dir.x)))
+                {
+                    if (dir.y > 0)
+                        anim.SetTrigger("MoveUp");
+
+                    else anim.SetTrigger("MoveDown");
+                }
+                else
+                {
+                    anim.SetTrigger("MoveSide");
+                    sr.flipX = dir.x < 0;
+                }
+            }
+            else 
+            {
+                anim.ResetTrigger("MoveUp");
+                anim.ResetTrigger("MoveDown");
+                anim.ResetTrigger("MoveSide");
             }
 
             if (moving && sprintHeld && _sprintLeft > 0f)
