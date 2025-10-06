@@ -885,6 +885,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Bootstrapper
   inputListener: {fileID: 1868892362}
   playerData: {fileID: 686448149}
+  playerInventory: {fileID: 0}
   lightController: {fileID: 3538451616638584902}
 --- !u!4 &1765484292
 Transform:

@@ -40,6 +40,11 @@ public class InputListener : MonoBehaviour
         _isSprinting = false;
     }
 
+    private void OnCollect(InputAction.CallbackContext context)
+    {
+        _invoker.InvokeCollect();
+    }
+
     private void OnUltraviolet(InputAction.CallbackContext context)
     {
         _invoker.InvokeUvEnable();
@@ -55,6 +60,7 @@ public class InputListener : MonoBehaviour
         _mainInputActions.Game.Move.performed += OnMovement;
         _mainInputActions.Game.Sprint.performed += OnSprintStarted;
         _mainInputActions.Game.Sprint.canceled += OnSprintEnded;
+        _mainInputActions.Game.Collect.performed += OnCollect;
         _mainInputActions.Game.UltraViolet.performed += OnUltraviolet;
         _mainInputActions.Game.UltraViolet.canceled += OffUltraviolet;
     }
@@ -64,6 +70,7 @@ public class InputListener : MonoBehaviour
         _mainInputActions.Game.Move.performed -= OnMovement;
         _mainInputActions.Game.Sprint.performed -= OnSprintStarted;
         _mainInputActions.Game.Sprint.canceled -= OnSprintEnded;
+        _mainInputActions.Game.Collect.performed += OnCollect;
         _mainInputActions.Game.UltraViolet.performed -= OnUltraviolet;
         _mainInputActions.Game.UltraViolet.canceled -= OffUltraviolet;
     }

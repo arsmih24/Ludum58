@@ -118,6 +118,15 @@ public partial class @MainInputActions: IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
+                },
+                {
+                    ""name"": ""Collect"",
+                    ""type"": ""Button"",
+                    ""id"": ""a5f21426-4279-40dc-b18c-1367ada917fe"",
+                    ""expectedControlType"": """",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
                 }
             ],
             ""bindings"": [
@@ -252,6 +261,17 @@ public partial class @MainInputActions: IInputActionCollection2, IDisposable
                     ""action"": ""UltraViolet"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""5ec1d4b0-ea76-4dcc-9cc7-6ad7107c1deb"",
+                    ""path"": ""<Keyboard>/e"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": "";Keyboard&Mouse"",
+                    ""action"": ""Collect"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
                 }
             ]
         }
@@ -280,6 +300,7 @@ public partial class @MainInputActions: IInputActionCollection2, IDisposable
         m_Game_Move = m_Game.FindAction("Move", throwIfNotFound: true);
         m_Game_Sprint = m_Game.FindAction("Sprint", throwIfNotFound: true);
         m_Game_UltraViolet = m_Game.FindAction("UltraViolet", throwIfNotFound: true);
+        m_Game_Collect = m_Game.FindAction("Collect", throwIfNotFound: true);
     }
 
     ~@MainInputActions()
@@ -363,6 +384,7 @@ public partial class @MainInputActions: IInputActionCollection2, IDisposable
     private readonly InputAction m_Game_Move;
     private readonly InputAction m_Game_Sprint;
     private readonly InputAction m_Game_UltraViolet;
+    private readonly InputAction m_Game_Collect;
     /// <summary>
     /// Provides access to input actions defined in input action map "Game".
     /// </summary>
@@ -386,6 +408,10 @@ public partial class @MainInputActions: IInputActionCollection2, IDisposable
         /// Provides access to the underlying input action "Game/UltraViolet".
         /// </summary>
         public InputAction @UltraViolet => m_Wrapper.m_Game_UltraViolet;
+        /// <summary>
+        /// Provides access to the underlying input action "Game/Collect".
+        /// </summary>
+        public InputAction @Collect => m_Wrapper.m_Game_Collect;
         /// <summary>
         /// Provides access to the underlying input action map instance.
         /// </summary>
@@ -421,6 +447,9 @@ public partial class @MainInputActions: IInputActionCollection2, IDisposable
             @UltraViolet.started += instance.OnUltraViolet;
             @UltraViolet.performed += instance.OnUltraViolet;
             @UltraViolet.canceled += instance.OnUltraViolet;
+            @Collect.started += instance.OnCollect;
+            @Collect.performed += instance.OnCollect;
+            @Collect.canceled += instance.OnCollect;
         }
 
         /// <summary>
@@ -441,6 +470,9 @@ public partial class @MainInputActions: IInputActionCollection2, IDisposable
             @UltraViolet.started -= instance.OnUltraViolet;
             @UltraViolet.performed -= instance.OnUltraViolet;
             @UltraViolet.canceled -= instance.OnUltraViolet;
+            @Collect.started -= instance.OnCollect;
+            @Collect.performed -= instance.OnCollect;
+            @Collect.canceled -= instance.OnCollect;
         }
 
         /// <summary>
@@ -515,5 +547,12 @@ public partial class @MainInputActions: IInputActionCollection2, IDisposable
         /// <seealso cref="UnityEngine.InputSystem.InputAction.performed" />
         /// <seealso cref="UnityEngine.InputSystem.InputAction.canceled" />
         void OnUltraViolet(InputAction.CallbackContext context);
+        /// <summary>
+        /// Method invoked when associated input action "Collect" is either <see cref="UnityEngine.InputSystem.InputAction.started" />, <see cref="UnityEngine.InputSystem.InputAction.performed" /> or <see cref="UnityEngine.InputSystem.InputAction.canceled" />.
+        /// </summary>
+        /// <seealso cref="UnityEngine.InputSystem.InputAction.started" />
+        /// <seealso cref="UnityEngine.InputSystem.InputAction.performed" />
+        /// <seealso cref="UnityEngine.InputSystem.InputAction.canceled" />
+        void OnCollect(InputAction.CallbackContext context);
     }
 }

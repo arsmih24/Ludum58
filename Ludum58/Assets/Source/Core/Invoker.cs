@@ -6,7 +6,7 @@ public class Invoker
 {
     private PlayerData _playerData;
     private PlayerMovement _playerMovement;
-    private PlayerInventory _playerController;
+    private PlayerInventory _playerInventory;
     private LightController _lightController;
 
     public Invoker(PlayerData playerData, PlayerMovement playerMovement, 
@@ -14,7 +14,7 @@ public class Invoker
     {
         _playerData = playerData;
         _playerMovement = playerMovement;
-        _playerController = playerController;
+        _playerInventory = playerController;
         _lightController = lightController;
     }
 
@@ -27,7 +27,7 @@ public class Invoker
 
     public void InvokeCollect() 
     {
-        _playerController.Collect();
+        _playerInventory.Collect();
     }
 
     public void InvokeUvEnable() 
