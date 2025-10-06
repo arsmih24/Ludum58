@@ -2382,10 +2382,22 @@ PrefabInstance:
     - target: {fileID: 1029233845922129799, guid: 4aadf5537db11dc4ca6efa20c2ba0c3b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 6539bf3f83e9b224bb3e85da625e2446, type: 3}
+      objectReference: {fileID: 21300000, guid: 744e686cf9fad3d4f93f0f72880a6130, type: 3}
     - target: {fileID: 1029233845922129799, guid: 4aadf5537db11dc4ca6efa20c2ba0c3b, type: 3}
       propertyPath: m_SortingOrder
       value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2313105335054749428, guid: 4aadf5537db11dc4ca6efa20c2ba0c3b, type: 3}
+      propertyPath: <WalkSpeed>k__BackingField
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2313105335054749428, guid: 4aadf5537db11dc4ca6efa20c2ba0c3b, type: 3}
+      propertyPath: <SprintSpeed>k__BackingField
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2313105335054749428, guid: 4aadf5537db11dc4ca6efa20c2ba0c3b, type: 3}
+      propertyPath: <SprintDuration>k__BackingField
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 7729514578350360057, guid: 4aadf5537db11dc4ca6efa20c2ba0c3b, type: 3}
       propertyPath: m_Name

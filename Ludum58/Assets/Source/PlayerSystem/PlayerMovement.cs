@@ -6,7 +6,6 @@ namespace PlayerSystem
     {
         private float _sprintLeft;   
         private bool _isSprinting;   
-        private bool _wasMoving;
 
         public void Move(Vector2 dir, Rigidbody2D rb, SpriteRenderer sr, Animator anim,
                     float walkSpeed, float sprintSpeed, float sprintDuration, float sprintRecharge, bool sprintHeld)
@@ -56,8 +55,6 @@ namespace PlayerSystem
 
             float speed = (_isSprinting && _sprintLeft > 0f) ? sprintSpeed : walkSpeed;
             rb.linearVelocity = dir.normalized * speed;
-
-            _wasMoving = moving;
         }
     }
 }
