@@ -1,6 +1,7 @@
 using UnityEngine;
 using PlayerSystem;
 using LightSystem;
+using UiSystem;
 
 public class Invoker
 {
@@ -8,14 +9,16 @@ public class Invoker
     private PlayerMovement _playerMovement;
     private PlayerInventory _playerInventory;
     private LightController _lightController;
+    private UiController _uiController;
 
     public Invoker(PlayerData playerData, PlayerMovement playerMovement, 
-                  PlayerInventory playerController, LightController lightController) 
+                  PlayerInventory playerController, LightController lightController, UiController uiController) 
     {
         _playerData = playerData;
         _playerMovement = playerMovement;
         _playerInventory = playerController;
         _lightController = lightController;
+        _uiController = uiController;
     }
 
     public void InvokeMove(Vector2 dir2, bool sprintHeld) 
@@ -38,5 +41,10 @@ public class Invoker
     public void InvokeUvDisable()
     {
         _lightController.DisableUV();
+    }
+
+    public void InvokePause() 
+    {
+        _uiController.Pause();
     }
 }

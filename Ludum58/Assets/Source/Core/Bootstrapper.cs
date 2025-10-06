@@ -1,6 +1,7 @@
+using UnityEngine;
 using PlayerSystem;
 using LightSystem;
-using UnityEngine;
+using UiSystem;
 
 public class Bootstrapper : MonoBehaviour
 {
@@ -8,12 +9,14 @@ public class Bootstrapper : MonoBehaviour
     [SerializeField] private PlayerData playerData;
     [SerializeField] private PlayerInventory playerInventory;
     [SerializeField] private LightController lightController;
+    [SerializeField] private UiController uiController;
 
     private void Awake()
     {
         PlayerMovement playerMovement = new();
-        Invoker invoker = new(playerData, playerMovement, playerInventory, lightController);
+        Invoker invoker = new(playerData, playerMovement, playerInventory, lightController, uiController);
 
         inputListener.Construct(invoker);
+        uiController.Construct(playerInventory, lightController);
     }
 }

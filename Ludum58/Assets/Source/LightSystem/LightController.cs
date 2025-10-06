@@ -6,17 +6,12 @@ namespace LightSystem
 {
     public class LightController : MonoBehaviour
     {
-        [Header("Фонари")]
         [SerializeField] private Light2D normalLight;
         [SerializeField] private Light2D uvLight;
-
-        [Header("Параметры заряда")]
+        [Space]
         [SerializeField][Range(0.1f, 10f)] private float maxCharge = 5f;
         [SerializeField][Range(0.1f, 5f)] private float drainPerSec = 1f;
         [SerializeField][Range(0.01f, 2f)] private float rechargePerSec = 0.2f;
-
-        [Header("UI")]
-        [SerializeField] private Image uvGauge;
 
         public float Charge => _currentCharge / maxCharge;
 
@@ -44,8 +39,6 @@ namespace LightSystem
             {
                 _currentCharge = Mathf.MoveTowards(_currentCharge, maxCharge, rechargePerSec * Time.deltaTime);
             }
-
-            uvGauge.fillAmount = Charge;
         }
 
         public void EnableUV()

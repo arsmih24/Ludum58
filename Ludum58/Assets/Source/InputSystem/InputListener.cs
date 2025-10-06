@@ -55,6 +55,11 @@ public class InputListener : MonoBehaviour
         _invoker.InvokeUvDisable();
     }
 
+    private void OnPause(InputAction.CallbackContext context)
+    {
+        _invoker.InvokePause();
+    }
+
     private void Bind() 
     {
         _mainInputActions.Game.Move.performed += OnMovement;
@@ -63,6 +68,7 @@ public class InputListener : MonoBehaviour
         _mainInputActions.Game.Collect.performed += OnCollect;
         _mainInputActions.Game.UltraViolet.performed += OnUltraviolet;
         _mainInputActions.Game.UltraViolet.canceled += OffUltraviolet;
+        _mainInputActions.Game.Pause.performed += OnPause;
     }
 
     private void Expose() 
@@ -73,6 +79,7 @@ public class InputListener : MonoBehaviour
         _mainInputActions.Game.Collect.performed += OnCollect;
         _mainInputActions.Game.UltraViolet.performed -= OnUltraviolet;
         _mainInputActions.Game.UltraViolet.canceled -= OffUltraviolet;
+        _mainInputActions.Game.Pause.performed -= OnPause;
     }
 
     private void OnDestroy()
