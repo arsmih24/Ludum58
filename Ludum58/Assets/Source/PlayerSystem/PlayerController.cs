@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace PlayerSystem 
 {
-    public class PlayerInventory : MonoBehaviour
+    public class PlayerController : MonoBehaviour
     {
         public bool HasEye { get; private set; } = false;
         public bool HasHand { get; private set; } = false;

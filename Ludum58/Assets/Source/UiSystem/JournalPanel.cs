@@ -10,7 +10,7 @@ namespace UiSystem
         [SerializeField] private Button mapButton;
         [SerializeField] private Button closeButton;
         [Space]
-        [SerializeField] private GameObject itemsPage;
+        [SerializeField] private ItemsPage itemsPage;
         [SerializeField] private GameObject notesPage;
         [SerializeField] private GameObject mapPage;
         [Space]
@@ -53,21 +53,22 @@ namespace UiSystem
 
         private void OpenItemsPage() 
         {
-            itemsPage.SetActive(true);
+            //itemsPage.UpdateButtons();
+            itemsPage.gameObject.SetActive(true);
             notesPage.SetActive(false);
             mapPage.SetActive(false);
         }
 
         private void OpenNotesPage()
         {
-            itemsPage.SetActive(false);
+            itemsPage.gameObject.SetActive(false);
             notesPage.SetActive(true);
             mapPage.SetActive(false);
         }
 
         private void OpenMapPage()
         {
-            itemsPage.SetActive(false);
+            itemsPage.gameObject.SetActive(false);
             notesPage.SetActive(false);
             mapPage.SetActive(true);
         }

@@ -7,16 +7,16 @@ public class Invoker
 {
     private PlayerData _playerData;
     private PlayerMovement _playerMovement;
-    private PlayerInventory _playerInventory;
+    private PlayerController _playerController;
     private LightController _lightController;
     private UiController _uiController;
 
     public Invoker(PlayerData playerData, PlayerMovement playerMovement, 
-                  PlayerInventory playerController, LightController lightController, UiController uiController) 
+                  PlayerController playerController, LightController lightController, UiController uiController) 
     {
         _playerData = playerData;
         _playerMovement = playerMovement;
-        _playerInventory = playerController;
+        _playerController = playerController;
         _lightController = lightController;
         _uiController = uiController;
     }
@@ -30,7 +30,7 @@ public class Invoker
 
     public void InvokeCollect() 
     {
-        _playerInventory.Collect();
+        _playerController.Collect();
     }
 
     public void InvokeUvEnable() 

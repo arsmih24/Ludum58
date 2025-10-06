@@ -12,10 +12,10 @@ namespace UiSystem
         [Space]
         [SerializeField] private Image battery;
 
-        private PlayerInventory _playerInventory;
+        private PlayerController _playerInventory;
         private LightController _lightController;
 
-        public void Construct(PlayerInventory playerInventory, LightController lightController)
+        public void Construct(PlayerController playerInventory, LightController lightController)
         {
             _playerInventory = playerInventory;
             _lightController = lightController;
