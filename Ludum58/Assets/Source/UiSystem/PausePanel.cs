@@ -12,6 +12,8 @@ namespace UiSystem
 
         private bool _isPaused = false;
 
+        public bool IsPaused => _isPaused;
+
         private void Awake()
         {
             resumeButton.onClick.AddListener(EndPause);

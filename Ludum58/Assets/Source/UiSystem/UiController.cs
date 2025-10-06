@@ -28,12 +28,12 @@ namespace UiSystem
 
         public void Pause() 
         {
-            if (journalPanel.IsJournalOpened) return;
             pausePanel.SetPause();
         }
 
         public void Journal() 
         {
+            if (pausePanel.IsPaused) return;
             journalPanel.SetJournal();
         }
     }

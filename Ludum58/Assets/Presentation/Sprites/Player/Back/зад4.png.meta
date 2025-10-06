@@ -1,22 +1,10 @@
 fileFormatVersion: 2
-guid: dd585381c1966284d9f0de5487cd29b0
+guid: beb6b2ba1666cca4dba08773cfd56ce9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4927230197743643791
-    second: "\u04177_0"
-  - first:
-      213: -2199235497512117627
-    second: "\u04177_1"
-  - first:
-      213: -7266008499043272795
-    second: "\u04177_2"
-  - first:
-      213: 7924299797438559395
-    second: "\u04177_3"
-  - first:
-      213: -1899658759732361979
-    second: "\u04177_4"
+      213: -479701238558803750
+    second: "\u0437\u0430\u04344_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -49,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -63,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 250
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -125,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "\u04177_0"
+      name: "\u0437\u0430\u04344_0"
       rect:
         serializedVersion: 2
-        x: 46
-        y: 437
-        width: 33
-        height: 7
+        x: 15
+        y: 0
+        width: 69
+        height: 165
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,96 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 17399e0ad36fe9bb0800000000000000
-      internalID: -4927230197743643791
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "\u04177_1"
-      rect:
-        serializedVersion: 2
-        x: 63
-        y: 441
-        width: 83
-        height: 94
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 58a5c5197feba71e0800000000000000
-      internalID: -2199235497512117627
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "\u04177_2"
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 218
-        width: 152
-        height: 209
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5a77e8f54c3f92b90800000000000000
-      internalID: -7266008499043272795
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "\u04177_3"
-      rect:
-        serializedVersion: 2
-        x: 59
-        y: 19
-        width: 95
-        height: 264
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3a476085ea4c8fd60800000000000000
-      internalID: 7924299797438559395
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "\u04177_4"
-      rect:
-        serializedVersion: 2
-        x: 26
-        y: 133
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 50581bf3c6e03a5e0800000000000000
-      internalID: -1899658759732361979
+      spriteID: ad8336dd342c759f0800000000000000
+      internalID: -479701238558803750
       vertices: []
       indices: 
       edges: []
@@ -248,11 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "\u04177_0": -4927230197743643791
-      "\u04177_1": -2199235497512117627
-      "\u04177_2": -7266008499043272795
-      "\u04177_3": 7924299797438559395
-      "\u04177_4": -1899658759732361979
+      "\u0437\u0430\u04344_0": -479701238558803750
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

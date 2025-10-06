@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 14d3b125054a51e45895011e4727f162
+guid: 3e17f29ea077b2b469464b6d0a88147c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5571543318830256870
-    second: "\u04175_0"
-  - first:
-      213: -3822473367280530882
-    second: "\u04175_1"
+      213: 865735091971281578
+    second: purple_flashlight_1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -40,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -54,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 250
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -116,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "\u04175_0"
+      name: purple_flashlight_1_0
       rect:
         serializedVersion: 2
-        x: 49
-        y: 428
-        width: 100
-        height: 94
+        x: 2
+        y: 2
+        width: 207
+        height: 216
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,30 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a1deb6eeed6eda2b0800000000000000
-      internalID: -5571543318830256870
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "\u04175_1"
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 4
-        width: 168
-        height: 415
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e3a4adb89b8d3fac0800000000000000
-      internalID: -3822473367280530882
+      spriteID: aa2d982ba75b30c00800000000000000
+      internalID: 865735091971281578
       vertices: []
       indices: 
       edges: []
@@ -173,8 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "\u04175_0": -5571543318830256870
-      "\u04175_1": -3822473367280530882
+      purple_flashlight_1_0: 865735091971281578
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
