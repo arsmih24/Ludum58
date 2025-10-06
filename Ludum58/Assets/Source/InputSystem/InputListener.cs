@@ -40,11 +40,41 @@ public class InputListener : MonoBehaviour
         _isSprinting = false;
     }
 
+    private void OnCollect(InputAction.CallbackContext context)
+    {
+        _invoker.InvokeCollect();
+    }
+
+    private void OnUltraviolet(InputAction.CallbackContext context)
+    {
+        _invoker.InvokeUvEnable();
+    }
+
+    private void OffUltraviolet(InputAction.CallbackContext context)
+    {
+        _invoker.InvokeUvDisable();
+    }
+
+    private void OnPause(InputAction.CallbackContext context)
+    {
+        _invoker.InvokePause();
+    }
+
+    private void OnJournal(InputAction.CallbackContext context)
+    {
+        _invoker.InvokeJournal();
+    }
+
     private void Bind() 
     {
         _mainInputActions.Game.Move.performed += OnMovement;
         _mainInputActions.Game.Sprint.performed += OnSprintStarted;
         _mainInputActions.Game.Sprint.canceled += OnSprintEnded;
+        _mainInputActions.Game.Collect.performed += OnCollect;
+        _mainInputActions.Game.UltraViolet.performed += OnUltraviolet;
+        _mainInputActions.Game.UltraViolet.canceled += OffUltraviolet;
+        _mainInputActions.Game.Pause.performed += OnPause;
+        _mainInputActions.Game.Journal.performed += OnJournal;
     }
 
     private void Expose() 
@@ -52,6 +82,11 @@ public class InputListener : MonoBehaviour
         _mainInputActions.Game.Move.performed -= OnMovement;
         _mainInputActions.Game.Sprint.performed -= OnSprintStarted;
         _mainInputActions.Game.Sprint.canceled -= OnSprintEnded;
+        _mainInputActions.Game.Collect.performed += OnCollect;
+        _mainInputActions.Game.UltraViolet.performed -= OnUltraviolet;
+        _mainInputActions.Game.UltraViolet.canceled -= OffUltraviolet;
+        _mainInputActions.Game.Pause.performed -= OnPause;
+        _mainInputActions.Game.Journal.performed -= OnJournal;
     }
 
     private void OnDestroy()

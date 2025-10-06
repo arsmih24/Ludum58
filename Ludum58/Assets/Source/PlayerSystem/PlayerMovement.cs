@@ -6,7 +6,6 @@ namespace PlayerSystem
     {
         private float _sprintLeft;   
         private bool _isSprinting;   
-        private bool _wasMoving;
 
         public void Move(Vector2 dir, Rigidbody2D rb, SpriteRenderer sr, Animator anim,
                     float walkSpeed, float sprintSpeed, float sprintDuration, float sprintRecharge, bool sprintHeld)
@@ -19,7 +18,11 @@ namespace PlayerSystem
                 if ((Mathf.Abs(dir.y) > Mathf.Abs(dir.x)) || (Mathf.Abs(dir.y) == Mathf.Abs(dir.x)))
                 {
                     if (dir.y > 0)
+                    {
                         anim.SetTrigger("MoveUp");
+                        anim.ResetTrigger("MoveDown");
+                        anim.ResetTrigger("MoveSide");
+                    }
 
                     else anim.SetTrigger("MoveDown");
                 }
@@ -52,8 +55,6 @@ namespace PlayerSystem
 
             float speed = (_isSprinting && _sprintLeft > 0f) ? sprintSpeed : walkSpeed;
             rb.linearVelocity = dir.normalized * speed;
-
-            _wasMoving = moving;
         }
     }
 }
