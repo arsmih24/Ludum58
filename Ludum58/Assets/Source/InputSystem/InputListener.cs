@@ -60,6 +60,11 @@ public class InputListener : MonoBehaviour
         _invoker.InvokePause();
     }
 
+    private void OnJournal(InputAction.CallbackContext context)
+    {
+        _invoker.InvokeJournal();
+    }
+
     private void Bind() 
     {
         _mainInputActions.Game.Move.performed += OnMovement;
@@ -69,6 +74,7 @@ public class InputListener : MonoBehaviour
         _mainInputActions.Game.UltraViolet.performed += OnUltraviolet;
         _mainInputActions.Game.UltraViolet.canceled += OffUltraviolet;
         _mainInputActions.Game.Pause.performed += OnPause;
+        _mainInputActions.Game.Journal.performed += OnJournal;
     }
 
     private void Expose() 
@@ -80,6 +86,7 @@ public class InputListener : MonoBehaviour
         _mainInputActions.Game.UltraViolet.performed -= OnUltraviolet;
         _mainInputActions.Game.UltraViolet.canceled -= OffUltraviolet;
         _mainInputActions.Game.Pause.performed -= OnPause;
+        _mainInputActions.Game.Journal.performed -= OnJournal;
     }
 
     private void OnDestroy()

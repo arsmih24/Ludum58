@@ -7,33 +7,34 @@ namespace UiSystem
     {
         [SerializeField] private Button resumeButton;
         [SerializeField] private Button mainMenuButton;
+        [Space]
         [SerializeField] private GameObject panel;
 
         private bool _isPaused = false;
 
         private void Awake()
         {
-            resumeButton.onClick.AddListener(ResetPause);
+            resumeButton.onClick.AddListener(EndPause);
             mainMenuButton.onClick.AddListener(MainMenu);
         }
 
-        public void Pause()
+        public void SetPause()
         {
             if (!_isPaused)
-                SetPause();
+                StartPause();
 
             else if (_isPaused)
-                ResetPause();
+                EndPause();
         }
 
-        private void SetPause()
+        private void StartPause()
         {
             panel.SetActive(true);
             Time.timeScale = 0.0f;
             _isPaused = true;
         }
 
-        private void ResetPause()
+        private void EndPause()
         {
             panel.SetActive(false);
             Time.timeScale = 1.0f;

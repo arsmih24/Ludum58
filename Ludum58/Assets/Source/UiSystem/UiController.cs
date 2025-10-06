@@ -8,6 +8,7 @@ namespace UiSystem
     public class UiController : MonoBehaviour
     {
         [SerializeField] private PausePanel pausePanel;
+        [SerializeField] private JournalPanel journalPanel;
         [Space]
         [SerializeField] private Image battery;
 
@@ -27,7 +28,13 @@ namespace UiSystem
 
         public void Pause() 
         {
-            pausePanel.Pause();
+            if (journalPanel.IsJournalOpened) return;
+            pausePanel.SetPause();
+        }
+
+        public void Journal() 
+        {
+            journalPanel.SetJournal();
         }
     }
 }

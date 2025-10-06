@@ -47,4 +47,9 @@ public class Invoker
     {
         _uiController.Pause();
     }
+
+    public void InvokeJournal() 
+    {
+        _uiController.Journal();
+    }
 }
