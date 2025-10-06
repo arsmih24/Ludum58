@@ -6,6 +6,11 @@ TagManager:
   tags:
   - WayPoint
   - Ultraviolet
+  - Hand
+  - Eye
+  - GreenCard
+  - PurpleCard
+  - RedCard
   layers:
   - Default
   - TransparentFX
