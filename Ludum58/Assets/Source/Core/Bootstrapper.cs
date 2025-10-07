@@ -17,6 +17,7 @@ public class Bootstrapper : MonoBehaviour
         Invoker invoker = new(playerData, playerMovement, playerController, lightController, uiController);
 
         inputListener.Construct(invoker);
-        uiController.Construct(playerController, lightController);
+        uiController.Construct(lightController);
+        playerController.Construct(playerData, uiController);
     }
 }

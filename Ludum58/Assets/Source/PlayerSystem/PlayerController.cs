@@ -1,3 +1,4 @@
+using UiSystem;
 using UnityEngine;
 
 namespace PlayerSystem 
@@ -12,6 +13,7 @@ namespace PlayerSystem
 
         private Collectable _collectable;
         private PlayerData _playerData;
+        private UiController _uiController;
         private int _usefulCollectablesCount = 0;
 
         private const string _eyeTag = "Eye";
@@ -19,6 +21,12 @@ namespace PlayerSystem
         private const string _greenCardTag = "GreenCard";
         private const string _purpleCardTag = "PurpleCard";
         private const string _redCardTag = "RedCard";
+
+        public void Construct(PlayerData playerData, UiController uiController) 
+        {
+            _playerData = playerData;
+            _uiController = uiController;
+        }
 
         private void OnTriggerEnter2D(Collider2D collision)
         {
@@ -87,6 +95,7 @@ namespace PlayerSystem
         public void Death() 
         {
             _playerData.CanMove = false;
+            _uiController.ReloadGame();
         }
     }
 }

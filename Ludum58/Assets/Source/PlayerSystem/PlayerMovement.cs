@@ -8,9 +8,13 @@ namespace PlayerSystem
         private bool _isSprinting;   
 
         public void Move(Vector2 dir, Rigidbody2D rb, SpriteRenderer sr, Animator anim,
-                    float walkSpeed, float sprintSpeed, float sprintDuration, float sprintRecharge, bool sprintHeld)
+                    float walkSpeed, float sprintSpeed, float sprintDuration, float sprintRecharge, bool sprintHeld, bool canMove)
         {
-            bool moving = dir != Vector2.zero;
+            bool moving;
+            if (canMove)
+                moving = dir != Vector2.zero;
+            else moving = false;
+
             anim.SetBool("IsMoving", moving);
 
             if (moving)

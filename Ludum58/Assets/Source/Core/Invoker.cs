@@ -25,7 +25,7 @@ public class Invoker
     {
         _playerMovement.Move(dir2, _playerData.Rb, _playerData.Sr, _playerData.Anim,
                             _playerData.WalkSpeed, _playerData.SprintSpeed,
-                            _playerData.SprintDuration, _playerData.SprintRecharge, sprintHeld);
+                            _playerData.SprintDuration, _playerData.SprintRecharge, sprintHeld, _playerData.CanMove);
     }
 
     public void InvokeCollect() 

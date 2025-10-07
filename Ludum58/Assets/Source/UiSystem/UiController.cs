@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.UI;
+using DG.Tweening;
 using PlayerSystem;
 using LightSystem;
 
@@ -11,14 +12,25 @@ namespace UiSystem
         [SerializeField] private JournalPanel journalPanel;
         [Space]
         [SerializeField] private Image battery;
+        [Space]
+        [SerializeField] private Image loadPanel;
+        [SerializeField] private float fadeDuration = 1f;
 
-        private PlayerController _playerInventory;
         private LightController _lightController;
 
-        public void Construct(PlayerController playerInventory, LightController lightController)
+        public void Construct(LightController lightController)
         {
-            _playerInventory = playerInventory;
             _lightController = lightController;
+        }
+
+        private void Awake()
+        {
+            loadPanel.gameObject.SetActive(true);
+        }
+
+        private void Start()
+        {
+            loadPanel.DOFade(0, fadeDuration);
         }
 
         private void Update()
@@ -35,6 +47,22 @@ namespace UiSystem
         {
             if (pausePanel.IsPaused) return;
             journalPanel.SetJournal();
+        }
+
+        public void ReloadGame() 
+        {
+            loadPanel.DOFade(1, fadeDuration).OnComplete(() =>
+            {
+                Level.ReloadLevel();
+            });
+        }
+
+        public void EndGame()
+        {
+            loadPanel.DOFade(1, fadeDuration).OnComplete(() =>
+            {
+                Level.MainMenu();
+            });
         }
     }
 }
