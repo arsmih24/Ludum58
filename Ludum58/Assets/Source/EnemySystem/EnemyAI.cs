@@ -4,45 +4,45 @@ using UnityEngine.AI;
 [RequireComponent(typeof(NavMeshAgent))]
 public class EnemyAI : MonoBehaviour
 {
-    [SerializeField] private GameObject[] _wayPoints;
+    [Header("Waypoints (циклический маршрут)")]
+    [SerializeField] private Transform[] wayPoints;
 
     [Header("Параметры")]
     [SerializeField] private float chaseSpeed = 5f;
     [SerializeField] private float patrolSpeed = 3f;
-    [SerializeField] private float arrivalDist = 0.35f;   
+    [SerializeField] private float arrivalDist = 0.35f;
     [SerializeField] private float flipSmooth = 0.15f;
 
-    [Header("Ультрафиолет")]
     [SerializeField] private Collider2D uvCollider;
-    private string _uvTag = "Ultraviolet";
+
+    private string uvTag = "Ultraviolet";
     private bool frozenByUV = false;
 
-    private NavMeshAgent _agent;
-    private int _currentWP = 0;
-    private bool _chasing = false;
-    private Transform _player;
-    private float _currentScaleX = 1f;
+    private NavMeshAgent agent;
+    private int currentWP = 0;
+    private bool chasing = false;
+    private Transform player;
+    private float currentScaleX = 1f;
 
     private void Awake()
     {
-        _agent = GetComponent<NavMeshAgent>();
-        _agent.updateRotation = false;
-        _agent.updateUpAxis = false;
+        agent = GetComponent<NavMeshAgent>();
+        agent.updateRotation = false;
+        agent.updateUpAxis = false;
     }
 
     private void Start()
     {
-        GameObject uvObj = GameObject.FindGameObjectWithTag(_uvTag);
+        GameObject uvObj = GameObject.FindGameObjectWithTag(uvTag);
         uvCollider = uvObj?.GetComponent<Collider2D>();
 
-        if (_wayPoints.Length == 0)
+        if (wayPoints.Length == 0)
         {
-            Debug.LogWarning("Waypoints не заданы!", this);
             enabled = false;
             return;
         }
 
-        _agent.speed = patrolSpeed;
+        agent.speed = patrolSpeed;
         GoToCurrentWaypoint();
     }
 
@@ -51,97 +51,98 @@ public class EnemyAI : MonoBehaviour
         if (uvCollider != null)
         {
             bool intersects = GetComponent<Collider2D>().IsTouching(uvCollider);
-            if (intersects && !frozenByUV)
+            if (intersects && !frozenByUV)   
             {
                 frozenByUV = true;
-                _agent.isStopped = true;
+                agent.isStopped = true;
             }
             else if (!intersects && frozenByUV)
             {
                 frozenByUV = false;
-                _agent.isStopped = false;
+                agent.isStopped = false;
             }
         }
 
         if (frozenByUV) return;
-        if (_chasing && _player)
-            _agent.SetDestination(_player.position);
-        else
-        {
-            if (!_agent.pathPending && _agent.remainingDistance < arrivalDist)
-                AdvanceWaypoint();
-        }
 
-        HandleFacingDirection();
+        if (chasing && player)       
+        {
+            agent.SetDestination(player.position);
+        }
+        else                      
+        {
+            if (!agent.pathPending && agent.remainingDistance < arrivalDist)
+                AdvanceWaypoint();
+
+            HandleSpriteFlip();
+        }
     }
 
     private void GoToCurrentWaypoint()
     {
-        _agent.SetDestination(_wayPoints[_currentWP].transform.position);
+        agent.SetDestination(wayPoints[currentWP].position);
     }
 
     private void AdvanceWaypoint()
     {
-        _currentWP = (_currentWP + 1) % _wayPoints.Length;
-        _agent.SetDestination(_wayPoints[_currentWP].transform.position);
+        currentWP = (currentWP + 1) % wayPoints.Length;
+        agent.SetDestination(wayPoints[currentWP].position);
     }
 
     private void OnTriggerEnter2D(Collider2D col)
     {
-        if (!_chasing && col.CompareTag("Player"))
+        if (col.CompareTag(uvTag))
         {
-            _player = col.transform;
-            _chasing = true;
-            _agent.speed = chaseSpeed;
+            frozenByUV = true;
+            agent.isStopped = true;
+            return;
+        }
+
+        if (!chasing && col.CompareTag("Player")) 
+        {
+            player = col.transform;
+            chasing = true;
+            agent.speed = chaseSpeed;
         }
     }
 
     private void OnTriggerExit2D(Collider2D col)
     {
-        if (_chasing && col.CompareTag("Player"))
-        {
-            _chasing = false;
-            _agent.speed = patrolSpeed;
-            GoToCurrentWaypoint();
-        }
-    }
-
-    /*private void OnCollisionEnter(Collision2D col)
-    {
-        if (col.CompareTag(_uvTag))
-        {
-            frozenByUV = true;
-            _agent.isStopped = true;
-            return;
-        }
-    }
-
-    private void OnCollisionExit(Collision2D col)
-    {
-        if (col.CompareTag(_uvTag))
+        if (col.CompareTag(uvTag))
         {
             frozenByUV = false;
-            _agent.isStopped = false;
+            agent.isStopped = false;
             return;
         }
-    }*/
 
-    private void HandleFacingDirection()
+        if (chasing && col.CompareTag("Player"))   
+        {
+            chasing = false;
+            agent.speed = patrolSpeed;
+            GoToCurrentWaypoint();          
+        }
+    }
+
+    private void HandleSpriteFlip()
     {
-        Vector2 dir = _agent.velocity.normalized;
-        if (dir.sqrMagnitude > 0.01f)
-            transform.right = dir;
+        Vector3 vel = agent.velocity;
+        if (vel.sqrMagnitude > 0.01f)
+        {
+            float targetScaleX = vel.x >= 0 ? 1f : -1f;
+            currentScaleX = Mathf.Lerp(currentScaleX, targetScaleX, flipSmooth);
+        }
+        transform.localScale = new Vector3(currentScaleX, 1f, 1f);
     }
 
     private void OnDrawGizmos()
     {
-        if (_wayPoints == null || _wayPoints.Length < 2) return;
+        if (wayPoints == null || wayPoints.Length < 2) return;
 
         Gizmos.color = Color.cyan;
-        for (int i = 0; i < _wayPoints.Length; i++)
+        for (int i = 0; i < wayPoints.Length; i++)
         {
-            Vector3 a = _wayPoints[i].transform.position;
-            Vector3 b = _wayPoints[(i + 1) % _wayPoints.Length].transform.position;
+            Vector3 a = wayPoints[i].position;
+            Vector3 b = wayPoints[(i + 1) % wayPoints.Length].position;
             Gizmos.DrawLine(a, b);
             Gizmos.DrawWireSphere(a, 0.2f);
         }

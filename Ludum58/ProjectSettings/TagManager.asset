@@ -5,12 +5,12 @@ TagManager:
   serializedVersion: 3
   tags:
   - WayPoint
-  - Ultraviolet
   - Hand
   - Eye
   - GreenCard
   - PurpleCard
   - RedCard
+  - Ultraviolet
   layers:
   - Default
   - TransparentFX

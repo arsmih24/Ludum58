@@ -1097,7 +1097,7 @@ MonoBehaviour:
   m_BuildHeightMesh: 0
   m_MinRegionArea: 0
   m_HideEditorLogs: 0
-  m_NavMeshData: {fileID: 23800000, guid: 4af19e449c2253448bf908bd77816909, type: 2}
+  m_NavMeshData: {fileID: 23800000, guid: a194db10c66a14d4c92a662d5681ef2e, type: 2}
 --- !u!4 &997760828
 Transform:
   m_ObjectHideFlags: 0
@@ -1560,10 +1560,10 @@ GameObject:
   - component: {fileID: 1620056491}
   - component: {fileID: 1620056490}
   - component: {fileID: 1620056493}
-  - component: {fileID: 1620056492}
   - component: {fileID: 1620056494}
   - component: {fileID: 1620056496}
   - component: {fileID: 1620056495}
+  - component: {fileID: 1620056497}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Untagged
@@ -1644,35 +1644,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1620056492
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1620056489}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c528c912aab9bac49be29a3ccf1b4dc2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::EnemyAI
-  _wayPoints:
-  - {fileID: 1167006486}
-  - {fileID: 112920431}
-  - {fileID: 1779568583}
-  - {fileID: 924327753}
-  - {fileID: 233427925}
-  - {fileID: 1824526506}
-  - {fileID: 744366380}
-  - {fileID: 1798979111}
-  - {fileID: 490708721}
-  - {fileID: 180962039}
-  - {fileID: 225003853}
-  chaseSpeed: 5
-  patrolSpeed: 3
-  arrivalDist: 0.35
-  flipSmooth: 0.15
-  uvCollider: {fileID: 1163793807}
 --- !u!195 &1620056493
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -1795,6 +1766,34 @@ CapsuleCollider2D:
   m_Offset: {x: 2, y: 0}
   m_Size: {x: 10, y: 3}
   m_Direction: 1
+--- !u!114 &1620056497
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1620056489}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c528c912aab9bac49be29a3ccf1b4dc2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyAI
+  wayPoints:
+  - {fileID: 1167006487}
+  - {fileID: 112920432}
+  - {fileID: 1779568584}
+  - {fileID: 924327754}
+  - {fileID: 233427926}
+  - {fileID: 1824526507}
+  - {fileID: 744366381}
+  - {fileID: 1798979112}
+  - {fileID: 490708722}
+  - {fileID: 180962040}
+  - {fileID: 225003854}
+  chaseSpeed: 5
+  patrolSpeed: 3
+  arrivalDist: 0.35
+  flipSmooth: 0.15
 --- !u!1 &1661714803
 GameObject:
   m_ObjectHideFlags: 0
