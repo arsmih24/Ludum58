@@ -14,14 +14,8 @@ namespace UiSystem
 
         private void Awake()
         {
-            loadPanel.gameObject.SetActive(true);
             playButton.onClick.AddListener(NextLevel);
             exitButton.onClick.AddListener(ExitGame);
-        }
-
-        private void Start()
-        {
-            loadPanel.DOFade(0, fadeDuration);
         }
 
         private void NextLevel() 
