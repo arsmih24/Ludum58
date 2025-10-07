@@ -33,13 +33,12 @@ public class EnemyAI : MonoBehaviour
         agent = GetComponent<NavMeshAgent>();
         agent.updateRotation = false;
         agent.updateUpAxis = false;
+        GameObject uvObj = GameObject.FindGameObjectWithTag(uvTag);
+        uvCollider = uvObj?.GetComponent<Collider2D>();
     }
 
     private void Start()
     {
-        GameObject uvObj = GameObject.FindGameObjectWithTag(uvTag);
-        uvCollider = uvObj?.GetComponent<Collider2D>();
-
         if (wayPoints.Length == 0)
         {
             enabled = false;
@@ -80,17 +79,6 @@ public class EnemyAI : MonoBehaviour
 
             HandleSpriteFlip();
         }
-    }
-
-    private void GoToCurrentWaypoint()
-    {
-        agent.SetDestination(wayPoints[currentWP].position);
-    }
-
-    private void AdvanceWaypoint()
-    {
-        currentWP = (currentWP + 1) % wayPoints.Length;
-        agent.SetDestination(wayPoints[currentWP].position);
     }
 
     private void OnTriggerEnter2D(Collider2D col)
@@ -134,6 +122,17 @@ public class EnemyAI : MonoBehaviour
             Attack();
             //player.Death();
         }
+    }
+
+    private void GoToCurrentWaypoint()
+    {
+        agent.SetDestination(wayPoints[currentWP].position);
+    }
+
+    private void AdvanceWaypoint()
+    {
+        currentWP = (currentWP + 1) % wayPoints.Length;
+        agent.SetDestination(wayPoints[currentWP].position);
     }
 
     private void Attack()
