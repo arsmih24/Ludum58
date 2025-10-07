@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.AI;
+using PlayerSystem;
 
 [RequireComponent(typeof(NavMeshAgent))]
 public class EnemyAI : MonoBehaviour
@@ -24,8 +25,11 @@ public class EnemyAI : MonoBehaviour
     private Transform player;
     private float currentScaleX = 1f;
 
+    private Animator anim;
+
     private void Awake()
     {
+        anim = GetComponent<Animator>();
         agent = GetComponent<NavMeshAgent>();
         agent.updateRotation = false;
         agent.updateUpAxis = false;
@@ -121,6 +125,21 @@ public class EnemyAI : MonoBehaviour
             agent.speed = patrolSpeed;
             GoToCurrentWaypoint();          
         }
+    }
+
+    private void OnCollisionEnter2D(Collision2D col)
+    {
+        if (col.gameObject.TryGetComponent<PlayerController>(out PlayerController player))
+        {
+            Attack();
+            //player.Death();
+        }
+    }
+
+    private void Attack()
+    {
+        agent.isStopped = true;
+        anim.SetTrigger("Attacking");
     }
 
     private void HandleSpriteFlip()
