@@ -10,9 +10,8 @@ namespace PlayerSystem
         public bool HasPurpleCard { get; private set; } = false;
         public bool HasRedCard { get; private set; } = false;
 
-        public int UsefulCollectablesCount => _usefulCollectablesCount;
-
         private Collectable _collectable;
+        private PlayerData _playerData;
         private int _usefulCollectablesCount = 0;
 
         private const string _eyeTag = "Eye";
@@ -83,6 +82,11 @@ namespace PlayerSystem
                     _collectable = null;
                 }
             }
+        }
+
+        public void Death() 
+        {
+            _playerData.CanMove = false;
         }
     }
 }
