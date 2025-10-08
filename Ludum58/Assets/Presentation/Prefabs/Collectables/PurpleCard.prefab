@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8203538813443097036}
   - component: {fileID: 1910419755623512971}
   - component: {fileID: 7936701286334793325}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: E
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -87,7 +87,7 @@ GameObject:
   - component: {fileID: 2495278203706588250}
   - component: {fileID: 1670158080489191065}
   - component: {fileID: 5248852921602771136}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: PurpleCard
   m_TagString: Eye
   m_Icon: {fileID: 0}
@@ -233,7 +233,7 @@ GameObject:
   - component: {fileID: 128291512411727716}
   - component: {fileID: 2195635028459292216}
   - component: {fileID: 6378028276259096095}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -11,6 +11,15 @@ TagManager:
   - PurpleCard
   - RedCard
   - Ultraviolet
+  - Elevator
+  - TutorialNote
+  - TimeToDieNote
+  - PatientReportNote
+  - SypNote
+  - NoGodNote
+  - TherapyNote
+  - WhatTheyDidNote
+  - ContinueTestingNote
   layers:
   - Default
   - TransparentFX
@@ -18,8 +27,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - Ultraviolet
+  - Collectable
   - 
   - 
   - 

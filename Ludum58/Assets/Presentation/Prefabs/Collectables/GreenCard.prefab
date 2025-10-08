@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 103039799480686923}
   - component: {fileID: 4347152550738949277}
   - component: {fileID: 194965397128997538}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: E
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -87,7 +87,7 @@ GameObject:
   - component: {fileID: 5380245545940263304}
   - component: {fileID: 7364811159705131089}
   - component: {fileID: 3277233984333270839}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -189,7 +189,7 @@ GameObject:
   - component: {fileID: 8321112722451293804}
   - component: {fileID: 8529256438144801903}
   - component: {fileID: 5059559183694411497}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: GreenCard
   m_TagString: GreenCard
   m_Icon: {fileID: 0}

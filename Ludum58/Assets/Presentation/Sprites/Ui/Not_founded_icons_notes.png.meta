@@ -1,0 +1,7202 @@
+fileFormatVersion: 2
+guid: 50994d1b43b0ca242acf02598841c924
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1798962979350861138
+    second: Not_founded_icons_notes_0
+  - first:
+      213: 751331130566053609
+    second: Not_founded_icons_notes_1
+  - first:
+      213: 5642886755806321841
+    second: Not_founded_icons_notes_2
+  - first:
+      213: 3055824256455346011
+    second: Not_founded_icons_notes_3
+  - first:
+      213: -641793257743221696
+    second: Not_founded_icons_notes_4
+  - first:
+      213: -4731625633011176682
+    second: Not_founded_icons_notes_5
+  - first:
+      213: 4803770945799226675
+    second: Not_founded_icons_notes_6
+  - first:
+      213: 6969123635409154853
+    second: Not_founded_icons_notes_7
+  - first:
+      213: 2041751552350878560
+    second: Not_founded_icons_notes_8
+  - first:
+      213: -2699331288399689233
+    second: Not_founded_icons_notes_9
+  - first:
+      213: -5967346518813927362
+    second: Not_founded_icons_notes_10
+  - first:
+      213: -5941489530289924178
+    second: Not_founded_icons_notes_11
+  - first:
+      213: 9155628293929974488
+    second: Not_founded_icons_notes_12
+  - first:
+      213: -4680885831950827451
+    second: Not_founded_icons_notes_13
+  - first:
+      213: 4074456061383164196
+    second: Not_founded_icons_notes_14
+  - first:
+      213: -2820804117643122626
+    second: Not_founded_icons_notes_15
+  - first:
+      213: 5561324256698582525
+    second: Not_founded_icons_notes_16
+  - first:
+      213: -1104810915653717271
+    second: Not_founded_icons_notes_17
+  - first:
+      213: -2624036161997079747
+    second: Not_founded_icons_notes_18
+  - first:
+      213: 2804848448938437763
+    second: Not_founded_icons_notes_19
+  - first:
+      213: -1132352269827370079
+    second: Not_founded_icons_notes_20
+  - first:
+      213: -6649116737827216870
+    second: Not_founded_icons_notes_21
+  - first:
+      213: 4754868471458559569
+    second: Not_founded_icons_notes_22
+  - first:
+      213: -7574267790151129612
+    second: Not_founded_icons_notes_23
+  - first:
+      213: 6330660365939160491
+    second: Not_founded_icons_notes_24
+  - first:
+      213: -7484307048538608033
+    second: Not_founded_icons_notes_25
+  - first:
+      213: 6379396353888287789
+    second: Not_founded_icons_notes_26
+  - first:
+      213: -2249006956773032011
+    second: Not_founded_icons_notes_27
+  - first:
+      213: -7067662901489141587
+    second: Not_founded_icons_notes_28
+  - first:
+      213: 2277326121193281362
+    second: Not_founded_icons_notes_29
+  - first:
+      213: -8613127726438629097
+    second: Not_founded_icons_notes_30
+  - first:
+      213: 4274585241185202706
+    second: Not_founded_icons_notes_31
+  - first:
+      213: -7452628871983024336
+    second: Not_founded_icons_notes_32
+  - first:
+      213: -6378857443023876181
+    second: Not_founded_icons_notes_33
+  - first:
+      213: -3753098688828197446
+    second: Not_founded_icons_notes_34
+  - first:
+      213: 3830136219237938092
+    second: Not_founded_icons_notes_35
+  - first:
+      213: 6292029213865970456
+    second: Not_founded_icons_notes_36
+  - first:
+      213: -1511167902146211273
+    second: Not_founded_icons_notes_37
+  - first:
+      213: -8876830280986681767
+    second: Not_founded_icons_notes_38
+  - first:
+      213: -8184606444548070506
+    second: Not_founded_icons_notes_39
+  - first:
+      213: 5590715420721442860
+    second: Not_founded_icons_notes_40
+  - first:
+      213: 1802887957684397423
+    second: Not_founded_icons_notes_41
+  - first:
+      213: 8668263888556698542
+    second: Not_founded_icons_notes_42
+  - first:
+      213: -4667353370746458613
+    second: Not_founded_icons_notes_43
+  - first:
+      213: 6851991926422143934
+    second: Not_founded_icons_notes_44
+  - first:
+      213: -8951226925266982296
+    second: Not_founded_icons_notes_45
+  - first:
+      213: 6707233053136597601
+    second: Not_founded_icons_notes_46
+  - first:
+      213: -3398965658690283291
+    second: Not_founded_icons_notes_47
+  - first:
+      213: 8863977848028326155
+    second: Not_founded_icons_notes_48
+  - first:
+      213: 3554949091836167219
+    second: Not_founded_icons_notes_49
+  - first:
+      213: -4700841418606431495
+    second: Not_founded_icons_notes_50
+  - first:
+      213: -5321873082470782024
+    second: Not_founded_icons_notes_51
+  - first:
+      213: -7608046575662071116
+    second: Not_founded_icons_notes_52
+  - first:
+      213: -3850469385776621073
+    second: Not_founded_icons_notes_53
+  - first:
+      213: 7468963836832554910
+    second: Not_founded_icons_notes_54
+  - first:
+      213: -4096659311296975444
+    second: Not_founded_icons_notes_55
+  - first:
+      213: 5526390127479464020
+    second: Not_founded_icons_notes_56
+  - first:
+      213: 8692340720798642263
+    second: Not_founded_icons_notes_57
+  - first:
+      213: 1344734294012220988
+    second: Not_founded_icons_notes_58
+  - first:
+      213: 485520917381224965
+    second: Not_founded_icons_notes_59
+  - first:
+      213: -1869048952107703515
+    second: Not_founded_icons_notes_60
+  - first:
+      213: -7319757596866865455
+    second: Not_founded_icons_notes_61
+  - first:
+      213: 2595908577370808728
+    second: Not_founded_icons_notes_62
+  - first:
+      213: -4106784686016484297
+    second: Not_founded_icons_notes_63
+  - first:
+      213: -4686608091449492474
+    second: Not_founded_icons_notes_64
+  - first:
+      213: 8919066244871339089
+    second: Not_founded_icons_notes_65
+  - first:
+      213: 8582131987317596820
+    second: Not_founded_icons_notes_66
+  - first:
+      213: 6823206913526302580
+    second: Not_founded_icons_notes_67
+  - first:
+      213: -7468876818894393940
+    second: Not_founded_icons_notes_68
+  - first:
+      213: -801895949718889886
+    second: Not_founded_icons_notes_69
+  - first:
+      213: -2670034321401389092
+    second: Not_founded_icons_notes_70
+  - first:
+      213: -118983386907397641
+    second: Not_founded_icons_notes_71
+  - first:
+      213: -6780224998311978779
+    second: Not_founded_icons_notes_72
+  - first:
+      213: -1486728120280837177
+    second: Not_founded_icons_notes_73
+  - first:
+      213: -888139070739416147
+    second: Not_founded_icons_notes_74
+  - first:
+      213: -8197639202117547999
+    second: Not_founded_icons_notes_75
+  - first:
+      213: 4874985509247249775
+    second: Not_founded_icons_notes_76
+  - first:
+      213: 4484271851563475843
+    second: Not_founded_icons_notes_77
+  - first:
+      213: 4635262358305379236
+    second: Not_founded_icons_notes_78
+  - first:
+      213: 88490022144282126
+    second: Not_founded_icons_notes_79
+  - first:
+      213: -5872090618186788771
+    second: Not_founded_icons_notes_80
+  - first:
+      213: -7006666964929234456
+    second: Not_founded_icons_notes_81
+  - first:
+      213: -458280800096877442
+    second: Not_founded_icons_notes_82
+  - first:
+      213: 1743643082041299029
+    second: Not_founded_icons_notes_83
+  - first:
+      213: -6330439217867404680
+    second: Not_founded_icons_notes_84
+  - first:
+      213: -1065959002654326164
+    second: Not_founded_icons_notes_85
+  - first:
+      213: 7301031032717949929
+    second: Not_founded_icons_notes_86
+  - first:
+      213: -5176474040727882593
+    second: Not_founded_icons_notes_87
+  - first:
+      213: -7703159636534518887
+    second: Not_founded_icons_notes_88
+  - first:
+      213: 5979825192412978234
+    second: Not_founded_icons_notes_89
+  - first:
+      213: 7338505446983640512
+    second: Not_founded_icons_notes_90
+  - first:
+      213: -1574534477090891510
+    second: Not_founded_icons_notes_91
+  - first:
+      213: -3664001262825024011
+    second: Not_founded_icons_notes_92
+  - first:
+      213: -8783255008883044223
+    second: Not_founded_icons_notes_93
+  - first:
+      213: -8718068711516216824
+    second: Not_founded_icons_notes_94
+  - first:
+      213: -8048139133053109133
+    second: Not_founded_icons_notes_95
+  - first:
+      213: 2433363022440206352
+    second: Not_founded_icons_notes_96
+  - first:
+      213: 6240872087963421037
+    second: Not_founded_icons_notes_97
+  - first:
+      213: 5075523758648755481
+    second: Not_founded_icons_notes_98
+  - first:
+      213: 1065488188057511882
+    second: Not_founded_icons_notes_99
+  - first:
+      213: 1650436310736827189
+    second: Not_founded_icons_notes_100
+  - first:
+      213: -1685798038180135084
+    second: Not_founded_icons_notes_101
+  - first:
+      213: 124606130293189544
+    second: Not_founded_icons_notes_102
+  - first:
+      213: 4094013431603776092
+    second: Not_founded_icons_notes_103
+  - first:
+      213: -8438683961018606906
+    second: Not_founded_icons_notes_104
+  - first:
+      213: -3447521457039304646
+    second: Not_founded_icons_notes_105
+  - first:
+      213: 8953944102234618399
+    second: Not_founded_icons_notes_106
+  - first:
+      213: -1575195419020823234
+    second: Not_founded_icons_notes_107
+  - first:
+      213: -3390583509576105962
+    second: Not_founded_icons_notes_108
+  - first:
+      213: -4282116459380130877
+    second: Not_founded_icons_notes_109
+  - first:
+      213: -4351924620558927217
+    second: Not_founded_icons_notes_110
+  - first:
+      213: 5917701938983712040
+    second: Not_founded_icons_notes_111
+  - first:
+      213: -6525527430964251026
+    second: Not_founded_icons_notes_112
+  - first:
+      213: 5773614657048895120
+    second: Not_founded_icons_notes_113
+  - first:
+      213: -5029162981174969786
+    second: Not_founded_icons_notes_114
+  - first:
+      213: -7034967659809919849
+    second: Not_founded_icons_notes_115
+  - first:
+      213: 8201845331112943996
+    second: Not_founded_icons_notes_116
+  - first:
+      213: -3239128307728443604
+    second: Not_founded_icons_notes_117
+  - first:
+      213: 326721914308589365
+    second: Not_founded_icons_notes_118
+  - first:
+      213: 8964037963783912238
+    second: Not_founded_icons_notes_119
+  - first:
+      213: -6664845623815022371
+    second: Not_founded_icons_notes_120
+  - first:
+      213: -1535427936232421236
+    second: Not_founded_icons_notes_121
+  - first:
+      213: -6988839159533752477
+    second: Not_founded_icons_notes_122
+  - first:
+      213: -5789207886882713088
+    second: Not_founded_icons_notes_123
+  - first:
+      213: 5529374537759241237
+    second: Not_founded_icons_notes_124
+  - first:
+      213: -764965727890208498
+    second: Not_founded_icons_notes_125
+  - first:
+      213: -4602995879038347567
+    second: Not_founded_icons_notes_126
+  - first:
+      213: 7076462615706538951
+    second: Not_founded_icons_notes_127
+  - first:
+      213: 1171241826593866553
+    second: Not_founded_icons_notes_128
+  - first:
+      213: 5672543770553970219
+    second: Not_founded_icons_notes_129
+  - first:
+      213: 2195669352613700031
+    second: Not_founded_icons_notes_130
+  - first:
+      213: -5044358410252872501
+    second: Not_founded_icons_notes_131
+  - first:
+      213: -6848287373797594794
+    second: Not_founded_icons_notes_132
+  - first:
+      213: -5068215294898738601
+    second: Not_founded_icons_notes_133
+  - first:
+      213: -6825343813542109402
+    second: Not_founded_icons_notes_134
+  - first:
+      213: -3109156320611377776
+    second: Not_founded_icons_notes_135
+  - first:
+      213: 1503966815812219462
+    second: Not_founded_icons_notes_136
+  - first:
+      213: -5157278826572129099
+    second: Not_founded_icons_notes_137
+  - first:
+      213: -4957960807694552087
+    second: Not_founded_icons_notes_138
+  - first:
+      213: 2064512690382976402
+    second: Not_founded_icons_notes_139
+  - first:
+      213: 4272085183889115231
+    second: Not_founded_icons_notes_140
+  - first:
+      213: -547323626204385080
+    second: Not_founded_icons_notes_141
+  - first:
+      213: 6158015242714507538
+    second: Not_founded_icons_notes_142
+  - first:
+      213: -6593945025848083537
+    second: Not_founded_icons_notes_143
+  - first:
+      213: 7932516833201124737
+    second: Not_founded_icons_notes_144
+  - first:
+      213: -7431237521176254516
+    second: Not_founded_icons_notes_145
+  - first:
+      213: -1364555211250950855
+    second: Not_founded_icons_notes_146
+  - first:
+      213: 3333950864101591771
+    second: Not_founded_icons_notes_147
+  - first:
+      213: 2185801696345341333
+    second: Not_founded_icons_notes_148
+  - first:
+      213: -5735397636201330118
+    second: Not_founded_icons_notes_149
+  - first:
+      213: 8820829807673613467
+    second: Not_founded_icons_notes_150
+  - first:
+      213: 4085337231544515768
+    second: Not_founded_icons_notes_151
+  - first:
+      213: 5594594971023194420
+    second: Not_founded_icons_notes_152
+  - first:
+      213: -1529578157502950353
+    second: Not_founded_icons_notes_153
+  - first:
+      213: -1065696692040263178
+    second: Not_founded_icons_notes_154
+  - first:
+      213: 6624505959165177680
+    second: Not_founded_icons_notes_155
+  - first:
+      213: -1640140182287975979
+    second: Not_founded_icons_notes_156
+  - first:
+      213: 7032115801697296692
+    second: Not_founded_icons_notes_157
+  - first:
+      213: 8980115006604879235
+    second: Not_founded_icons_notes_158
+  - first:
+      213: 6580179793523816010
+    second: Not_founded_icons_notes_159
+  - first:
+      213: 8967110928070569162
+    second: Not_founded_icons_notes_160
+  - first:
+      213: -5083203302972095666
+    second: Not_founded_icons_notes_161
+  - first:
+      213: -5074195360445706438
+    second: Not_founded_icons_notes_162
+  - first:
+      213: -2050750391751383323
+    second: Not_founded_icons_notes_163
+  - first:
+      213: -9151209534781599302
+    second: Not_founded_icons_notes_164
+  - first:
+      213: 6507796641817021937
+    second: Not_founded_icons_notes_165
+  - first:
+      213: 5126270782484108324
+    second: Not_founded_icons_notes_166
+  - first:
+      213: 1070293991702095158
+    second: Not_founded_icons_notes_167
+  - first:
+      213: -3696257247801283595
+    second: Not_founded_icons_notes_168
+  - first:
+      213: -470001468091382259
+    second: Not_founded_icons_notes_169
+  - first:
+      213: 416283190203512866
+    second: Not_founded_icons_notes_170
+  - first:
+      213: -9088491512970982261
+    second: Not_founded_icons_notes_171
+  - first:
+      213: 3426601381213434279
+    second: Not_founded_icons_notes_172
+  - first:
+      213: 4766647861081930229
+    second: Not_founded_icons_notes_173
+  - first:
+      213: 6683394075236482549
+    second: Not_founded_icons_notes_174
+  - first:
+      213: 4359849113093819475
+    second: Not_founded_icons_notes_175
+  - first:
+      213: -7650506271470701889
+    second: Not_founded_icons_notes_176
+  - first:
+      213: -8109953933719885719
+    second: Not_founded_icons_notes_177
+  - first:
+      213: 1578575019206181479
+    second: Not_founded_icons_notes_178
+  - first:
+      213: 7904346205830823005
+    second: Not_founded_icons_notes_179
+  - first:
+      213: -5751153456288966382
+    second: Not_founded_icons_notes_180
+  - first:
+      213: -6532607398214357378
+    second: Not_founded_icons_notes_181
+  - first:
+      213: 7438935010866489483
+    second: Not_founded_icons_notes_182
+  - first:
+      213: -2255333790379982892
+    second: Not_founded_icons_notes_183
+  - first:
+      213: -4141288435861054404
+    second: Not_founded_icons_notes_184
+  - first:
+      213: 4736799847732590346
+    second: Not_founded_icons_notes_185
+  - first:
+      213: -5820738733253108261
+    second: Not_founded_icons_notes_186
+  - first:
+      213: -460961063854110332
+    second: Not_founded_icons_notes_187
+  - first:
+      213: -5515952841375054960
+    second: Not_founded_icons_notes_188
+  - first:
+      213: -668115925226870273
+    second: Not_founded_icons_notes_189
+  - first:
+      213: 323975937372172809
+    second: Not_founded_icons_notes_190
+  - first:
+      213: -3304270338466573960
+    second: Not_founded_icons_notes_191
+  - first:
+      213: 1625060155593325243
+    second: Not_founded_icons_notes_192
+  - first:
+      213: 752404828800509820
+    second: Not_founded_icons_notes_193
+  - first:
+      213: -4031279588450738989
+    second: Not_founded_icons_notes_194
+  - first:
+      213: 5553380619060248868
+    second: Not_founded_icons_notes_195
+  - first:
+      213: -3436972094368108043
+    second: Not_founded_icons_notes_196
+  - first:
+      213: 8006249183657226926
+    second: Not_founded_icons_notes_197
+  - first:
+      213: 3804654089006300027
+    second: Not_founded_icons_notes_198
+  - first:
+      213: -1683525383824632255
+    second: Not_founded_icons_notes_199
+  - first:
+      213: 1208222076032824382
+    second: Not_founded_icons_notes_200
+  - first:
+      213: -7658399479790219332
+    second: Not_founded_icons_notes_201
+  - first:
+      213: -8208427341484872962
+    second: Not_founded_icons_notes_202
+  - first:
+      213: -8551371135519791720
+    second: Not_founded_icons_notes_203
+  - first:
+      213: 7640423929052531193
+    second: Not_founded_icons_notes_204
+  - first:
+      213: 3841570692007449481
+    second: Not_founded_icons_notes_205
+  - first:
+      213: 527668185204492434
+    second: Not_founded_icons_notes_206
+  - first:
+      213: 6762148103686812154
+    second: Not_founded_icons_notes_207
+  - first:
+      213: -8059594005036053012
+    second: Not_founded_icons_notes_208
+  - first:
+      213: -4965279151181395866
+    second: Not_founded_icons_notes_209
+  - first:
+      213: 5073592837442045380
+    second: Not_founded_icons_notes_210
+  - first:
+      213: 6804578092400450531
+    second: Not_founded_icons_notes_211
+  - first:
+      213: 1995119943795411448
+    second: Not_founded_icons_notes_212
+  - first:
+      213: 1870303751095849135
+    second: Not_founded_icons_notes_213
+  - first:
+      213: 3518848660758884491
+    second: Not_founded_icons_notes_214
+  - first:
+      213: 4763995704037007200
+    second: Not_founded_icons_notes_215
+  - first:
+      213: -2996056463219846200
+    second: Not_founded_icons_notes_216
+  - first:
+      213: -7434759127683139802
+    second: Not_founded_icons_notes_217
+  - first:
+      213: -3247189311886373676
+    second: Not_founded_icons_notes_218
+  - first:
+      213: 9009943462106795374
+    second: Not_founded_icons_notes_219
+  - first:
+      213: 8203022318158730926
+    second: Not_founded_icons_notes_220
+  - first:
+      213: 1805490330847110361
+    second: Not_founded_icons_notes_221
+  - first:
+      213: 713983549173180951
+    second: Not_founded_icons_notes_222
+  - first:
+      213: -6926119004933541985
+    second: Not_founded_icons_notes_223
+  - first:
+      213: 9175998575928445753
+    second: Not_founded_icons_notes_224
+  - first:
+      213: -4269984613628651624
+    second: Not_founded_icons_notes_225
+  - first:
+      213: 6543275018431354268
+    second: Not_founded_icons_notes_226
+  - first:
+      213: -6805952208762038659
+    second: Not_founded_icons_notes_227
+  - first:
+      213: -3751871473203369926
+    second: Not_founded_icons_notes_228
+  - first:
+      213: 8884794098342168516
+    second: Not_founded_icons_notes_229
+  - first:
+      213: -7127511787454930998
+    second: Not_founded_icons_notes_230
+  - first:
+      213: -1319069724363001541
+    second: Not_founded_icons_notes_231
+  - first:
+      213: -2018233450342194577
+    second: Not_founded_icons_notes_232
+  - first:
+      213: -8201272506332453865
+    second: Not_founded_icons_notes_233
+  - first:
+      213: -2955745211187224500
+    second: Not_founded_icons_notes_234
+  - first:
+      213: -2262257833415979501
+    second: Not_founded_icons_notes_235
+  - first:
+      213: 6687571150100293121
+    second: Not_founded_icons_notes_236
+  - first:
+      213: 1567897372292215305
+    second: Not_founded_icons_notes_237
+  - first:
+      213: 5266268782036539014
+    second: Not_founded_icons_notes_238
+  - first:
+      213: -1532185530503031506
+    second: Not_founded_icons_notes_239
+  - first:
+      213: 7740493465918205188
+    second: Not_founded_icons_notes_240
+  - first:
+      213: -5421349067534609793
+    second: Not_founded_icons_notes_241
+  - first:
+      213: -7808118549416035506
+    second: Not_founded_icons_notes_242
+  - first:
+      213: -8505440102188199119
+    second: Not_founded_icons_notes_243
+  - first:
+      213: 4032624051881712120
+    second: Not_founded_icons_notes_244
+  - first:
+      213: -860489138865611330
+    second: Not_founded_icons_notes_245
+  - first:
+      213: -6723669658000225197
+    second: Not_founded_icons_notes_246
+  - first:
+      213: -2488053533410540753
+    second: Not_founded_icons_notes_247
+  - first:
+      213: 5716879882862723560
+    second: Not_founded_icons_notes_248
+  - first:
+      213: 6485963852827015820
+    second: Not_founded_icons_notes_249
+  - first:
+      213: 1875171556813377804
+    second: Not_founded_icons_notes_250
+  - first:
+      213: -7657495421678604983
+    second: Not_founded_icons_notes_251
+  - first:
+      213: -6163695953707833639
+    second: Not_founded_icons_notes_252
+  - first:
+      213: -2286700331067778521
+    second: Not_founded_icons_notes_253
+  - first:
+      213: -6152124405168695892
+    second: Not_founded_icons_notes_254
+  - first:
+      213: 3307118426550272101
+    second: Not_founded_icons_notes_255
+  - first:
+      213: 8324186562551017726
+    second: Not_founded_icons_notes_256
+  - first:
+      213: -3055032413924110350
+    second: Not_founded_icons_notes_257
+  - first:
+      213: -8733430634959560704
+    second: Not_founded_icons_notes_258
+  - first:
+      213: 5258219214677627523
+    second: Not_founded_icons_notes_259
+  - first:
+      213: 2955169160502002721
+    second: Not_founded_icons_notes_260
+  - first:
+      213: -5911846036946546536
+    second: Not_founded_icons_notes_261
+  - first:
+      213: -4026473291439745321
+    second: Not_founded_icons_notes_262
+  - first:
+      213: -2459538118054068471
+    second: Not_founded_icons_notes_263
+  - first:
+      213: 5982541449357643769
+    second: Not_founded_icons_notes_264
+  - first:
+      213: 1418045079779525827
+    second: Not_founded_icons_notes_265
+  - first:
+      213: -233370515650271611
+    second: Not_founded_icons_notes_266
+  - first:
+      213: 1619813001646830965
+    second: Not_founded_icons_notes_267
+  - first:
+      213: 7232181086739623969
+    second: Not_founded_icons_notes_268
+  - first:
+      213: -6407220644910142154
+    second: Not_founded_icons_notes_269
+  - first:
+      213: -7598443861781399770
+    second: Not_founded_icons_notes_270
+  - first:
+      213: 7505085631351483065
+    second: Not_founded_icons_notes_271
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 606
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25559446c4337f810800000000000000
+      internalID: 1798962979350861138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 618
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee051abea34d6a00800000000000000
+      internalID: 751331130566053609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 618
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc979b6b9f8f4e40800000000000000
+      internalID: 5642886755806321841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 618
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b570b0688f7786a20800000000000000
+      internalID: 3055824256455346011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_4
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 618
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c79f4be64e717f0800000000000000
+      internalID: -641793257743221696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 618
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b6c365e83e55eb0800000000000000
+      internalID: -4731625633011176682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_6
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 618
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33584b6493c6aa240800000000000000
+      internalID: 4803770945799226675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_7
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 619
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523775cb50d47b060800000000000000
+      internalID: 6969123635409154853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_8
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 620
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bf97d1832c55c10800000000000000
+      internalID: 2041751552350878560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 618
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9c6dfae7c0a8ad0800000000000000
+      internalID: -2699331288399689233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_10
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 620
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e389e6e15f9bf2da0800000000000000
+      internalID: -5967346518813927362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 619
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7dd5660c69b8da0800000000000000
+      internalID: -5941489530289924178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_12
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 620
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da363bbc635f0f70800000000000000
+      internalID: 9155628293929974488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 618
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5408960e2272a0fb0800000000000000
+      internalID: -4680885831950827451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_14
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 619
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4214eaf43306b8830800000000000000
+      internalID: 4074456061383164196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_15
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 613
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e382ceaa99d7ad8d0800000000000000
+      internalID: -2820804117643122626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_16
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 594
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5484142facd2d40800000000000000
+      internalID: 5561324256698582525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_17
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 608
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e27c74635ceaa0f0800000000000000
+      internalID: -1104810915653717271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 590
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b726e630d859bd0800000000000000
+      internalID: -2624036161997079747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 575
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ce7c7bdc2dce620800000000000000
+      internalID: 2804848448938437763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_20
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 573
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3155c2c931940f0800000000000000
+      internalID: -1132352269827370079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 589
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1264b33e8799b3a0800000000000000
+      internalID: -6649116737827216870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_22
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 574
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156fdf2beafacf140800000000000000
+      internalID: 4754868471458559569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_23
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 574
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5eb56339bc2e690800000000000000
+      internalID: -7574267790151129612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_24
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 574
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5b271cf060bd750800000000000000
+      internalID: 6330660365939160491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_25
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 573
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e67e59466622890800000000000000
+      internalID: -7484307048538608033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 573
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cfee23f2b288850800000000000000
+      internalID: 6379396353888287789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_27
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 572
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf392ca61ce9c0e0800000000000000
+      internalID: -2249006956773032011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_28
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 573
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da87884890e9aed90800000000000000
+      internalID: -7067662901489141587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_29
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 574
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257917b9a00ba9f10800000000000000
+      internalID: 2277326121193281362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_30
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 572
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711ce8497f5087880800000000000000
+      internalID: -8613127726438629097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_31
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 572
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212b8fe01a0625b30800000000000000
+      internalID: 4274585241185202706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_32
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 572
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037b1a2d681f29890800000000000000
+      internalID: -7452628871983024336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_33
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 572
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf84b3c3feb977a0800000000000000
+      internalID: -6378857443023876181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 526
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5396590a05aebc0800000000000000
+      internalID: -3753098688828197446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_35
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 538
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3f8053990672530800000000000000
+      internalID: 3830136219237938092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_36
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 538
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b8cd0cb37c15750800000000000000
+      internalID: 6292029213865970456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_37
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 538
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7325a9cacc0470be0800000000000000
+      internalID: -1511167902146211273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_38
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 538
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e9b5214e92fc480800000000000000
+      internalID: -8876830280986681767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_39
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 538
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693e6567dcf6a6e80800000000000000
+      internalID: -8184606444548070506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_40
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 538
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c207664ed06369d40800000000000000
+      internalID: 5590715420721442860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_41
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 539
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65ab9f9b05250910800000000000000
+      internalID: 1802887957684397423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_42
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 540
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaba4c8841cdb4870800000000000000
+      internalID: 8668263888556698542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_43
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 538
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e6f6786da3a3fb0800000000000000
+      internalID: -4667353370746458613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_44
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 540
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb38c3a8a5a271f50800000000000000
+      internalID: 6851991926422143934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_45
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 539
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86aac8f798ad6c380800000000000000
+      internalID: -8951226925266982296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_46
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 540
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16237f5ece0e41d50800000000000000
+      internalID: 6707233053136597601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_47
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 538
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8930eedb274d0d0800000000000000
+      internalID: -3398965658690283291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_48
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 539
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09e8a0b3ec230b70800000000000000
+      internalID: 8863977848028326155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_49
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 533
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3340e753d57b55130800000000000000
+      internalID: 3554949091836167219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_50
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 514
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2358ac2a143ceb0800000000000000
+      internalID: -4700841418606431495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_51
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 528
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbad93c0a8e426b0800000000000000
+      internalID: -5321873082470782024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_52
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 510
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b20907d2f9ca6690800000000000000
+      internalID: -7608046575662071116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_53
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 495
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9944a8e72609ac0800000000000000
+      internalID: -3850469385776621073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_54
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 493
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f94ae890717a760800000000000000
+      internalID: 7468963836832554910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_55
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 509
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cade858bf0eb527c0800000000000000
+      internalID: -4096659311296975444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_56
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 494
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450a3a67a8ea1bc40800000000000000
+      internalID: 5526390127479464020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_57
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 494
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750bdd1e4d561a870800000000000000
+      internalID: 8692340720798642263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_58
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 494
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3652e737b479a210800000000000000
+      internalID: 1344734294012220988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_59
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 493
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a9783b3baecb600800000000000000
+      internalID: 485520917381224965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_60
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 493
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523edc571edcf06e0800000000000000
+      internalID: -1869048952107703515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_61
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 492
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d698c45f3ffa6a90800000000000000
+      internalID: -7319757596866865455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_62
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 493
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891a39fe815860420800000000000000
+      internalID: 2595908577370808728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_63
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 494
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c29f43615c107c0800000000000000
+      internalID: -4106784686016484297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_64
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 492
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c7ea385c2d5feb0800000000000000
+      internalID: -4686608091449492474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_65
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 492
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cbbb59e73e6cb70800000000000000
+      internalID: 8919066244871339089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_66
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 492
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4922597829bd91770800000000000000
+      internalID: 8582131987317596820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_67
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 492
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47789b57986e0be50800000000000000
+      internalID: 6823206913526302580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_68
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 447
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad66a2ea18395890800000000000000
+      internalID: -7468876818894393940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_69
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 459
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a5e22e1e71fd4f0800000000000000
+      internalID: -801895949718889886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_70
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 459
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfd4ce5ee122fad0800000000000000
+      internalID: -2670034321401389092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_71
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 459
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f136317d39495ef0800000000000000
+      internalID: -118983386907397641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_72
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 459
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e81466894dc7e1a0800000000000000
+      internalID: -6780224998311978779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_73
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 459
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c39311d6a41e5be0800000000000000
+      internalID: -1486728120280837177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_74
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 459
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab7e618832bca3f0800000000000000
+      internalID: -888139070739416147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_75
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 460
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12887f024922c3e80800000000000000
+      internalID: -8197639202117547999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_76
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 461
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6debdbed7d67a340800000000000000
+      internalID: 4874985509247249775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_77
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 459
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38369b48d755b3e30800000000000000
+      internalID: 4484271851563475843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_78
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 461
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a318836e82c35040800000000000000
+      internalID: 4635262358305379236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_79
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 460
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e8310d4316a3100800000000000000
+      internalID: 88490022144282126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_80
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 461
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d509216c1b4228ea0800000000000000
+      internalID: -5872090618186788771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_81
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 459
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9bdefa48153ce90800000000000000
+      internalID: -7006666964929234456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_82
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 460
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7408d65a0cd3a9f0800000000000000
+      internalID: -458280800096877442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_83
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 454
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5509328152aa23810800000000000000
+      internalID: 1743643082041299029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_84
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 435
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87acfca4213c528a0800000000000000
+      internalID: -6330439217867404680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_85
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 449
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62c8ad4fe3f431f0800000000000000
+      internalID: -1065959002654326164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_86
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 431
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebb14faa09725560800000000000000
+      internalID: 7301031032717949929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_87
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 416
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94326d39487928b0800000000000000
+      internalID: -5176474040727882593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_88
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 414
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b9b38af11e81590800000000000000
+      internalID: -7703159636534518887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_89
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 430
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c15bc745b9cf250800000000000000
+      internalID: 5979825192412978234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_90
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 415
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5aabda2db97d560800000000000000
+      internalID: 7338505446983640512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_91
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 415
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09546e3c31262ae0800000000000000
+      internalID: -1574534477090891510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_92
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 415
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f55bb0a34ad62dc0800000000000000
+      internalID: -3664001262825024011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_93
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 414
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1801bd7ea1c9b1680800000000000000
+      internalID: -8783255008883044223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_94
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 414
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802e0aa72b2330780800000000000000
+      internalID: -8718068711516216824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_95
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 413
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cf27f69144f4090800000000000000
+      internalID: -8048139133053109133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_96
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 414
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0109e12c6ca05c120800000000000000
+      internalID: 2433363022440206352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_97
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 415
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69c5b339180c9650800000000000000
+      internalID: 6240872087963421037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_98
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 413
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915805b97f1ef6640800000000000000
+      internalID: 5075523758648755481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_99
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 413
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7ea81acdf59ce00800000000000000
+      internalID: 1065488188057511882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_100
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 413
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533ffd9841787e610800000000000000
+      internalID: 1650436310736827189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_101
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 413
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ff833bd97da98e0800000000000000
+      internalID: -1685798038180135084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_102
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 365
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab26f48d90bab100800000000000000
+      internalID: 124606130293189544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_103
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 377
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5acb68668bd0d830800000000000000
+      internalID: 4094013431603776092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_104
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 377
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca13b3c5a5c3ea80800000000000000
+      internalID: -8438683961018606906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_105
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 377
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3892a52081f720d0800000000000000
+      internalID: -3447521457039304646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_106
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 377
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1af56098bcc24c70800000000000000
+      internalID: 8953944102234618399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_107
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 377
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35f075bc18c32ae0800000000000000
+      internalID: -1575195419020823234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_108
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 377
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6104b6a134a32f0d0800000000000000
+      internalID: -3390583509576105962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_109
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 378
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb3bcf84cdd294c0800000000000000
+      internalID: -4282116459380130877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_110
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 379
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8afe467d9bda93c0800000000000000
+      internalID: -4351924620558927217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_111
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 377
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825b3c76f86ef1250800000000000000
+      internalID: 5917701938983712040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_112
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 379
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66fe41106ba075a0800000000000000
+      internalID: -6525527430964251026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_113
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 378
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e536fc0ffff1050800000000000000
+      internalID: 5773614657048895120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_114
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 379
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a758d0ae2d43ab0800000000000000
+      internalID: -5029162981174969786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_115
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 377
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c2baeaf26ce5e90800000000000000
+      internalID: -7034967659809919849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_116
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 378
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71eea79fdec2d170800000000000000
+      internalID: 8201845331112943996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_117
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 372
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c271feb37fd4c03d0800000000000000
+      internalID: -3239128307728443604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_118
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 353
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537f2ba99dfb88400800000000000000
+      internalID: 326721914308589365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_119
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 367
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bb478d809a66c70800000000000000
+      internalID: 8964037963783912238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_120
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 349
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd850bd8736b183a0800000000000000
+      internalID: -6664845623815022371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_121
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 334
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88c7a25d6011bae0800000000000000
+      internalID: -1535427936232421236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_122
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 332
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fa6a710d7a20f90800000000000000
+      internalID: -6988839159533752477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_123
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 348
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0025773791a98afa0800000000000000
+      internalID: -5789207886882713088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_124
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 333
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514ba31a8d84cbc40800000000000000
+      internalID: 5529374537759241237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_125
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 333
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0981c339bb4265f0800000000000000
+      internalID: -764965727890208498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_126
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 333
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6155fb2afde10c0800000000000000
+      internalID: -4602995879038347567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_127
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 332
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3158b9145a43260800000000000000
+      internalID: 7076462615706538951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_128
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 332
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933053c5c36114010800000000000000
+      internalID: 1171241826593866553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_129
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 331
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e69b0418ce8be40800000000000000
+      internalID: 5672543770553970219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_130
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 332
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb160ce94a5987e10800000000000000
+      internalID: 2195669352613700031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_131
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 333
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc49f1580c6def9b0800000000000000
+      internalID: -5044358410252872501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_132
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 331
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6596005daeef5f0a0800000000000000
+      internalID: -6848287373797594794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_133
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 331
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75aeb56ba051aa9b0800000000000000
+      internalID: -5068215294898738601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_134
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 331
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f99ebb6f18741a0800000000000000
+      internalID: -6825343813542109402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_135
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 331
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d5cc6acce0ad4d0800000000000000
+      internalID: -3109156320611377776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_136
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 279
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6427672c9d92fd410800000000000000
+      internalID: 1503966815812219462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_137
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 291
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc568e4b3aad68b0800000000000000
+      internalID: -5157278826572129099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_138
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 291
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3be0fe9e8c13bb0800000000000000
+      internalID: -4957960807694552087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_139
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 291
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29530988a5f96ac10800000000000000
+      internalID: 2064512690382976402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_140
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 291
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f588beb17de794b30800000000000000
+      internalID: 4272085183889115231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_141
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 291
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0b8e2df048768f0800000000000000
+      internalID: -547323626204385080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_142
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 291
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21960779c3aa57550800000000000000
+      internalID: 6158015242714507538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_143
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 292
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabfed96fe99d74a0800000000000000
+      internalID: -6593945025848083537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_144
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 293
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18572c11806f51e60800000000000000
+      internalID: 7932516833201124737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_145
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 291
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc72cbcc8d0fed890800000000000000
+      internalID: -7431237521176254516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_146
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 293
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d9afcd340201de0800000000000000
+      internalID: -1364555211250950855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_147
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 292
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdac16995a2944e20800000000000000
+      internalID: 3333950864101591771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_148
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 293
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d3c1cdf07855e10800000000000000
+      internalID: 2185801696345341333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_149
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 291
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3aca90cc36c760b0800000000000000
+      internalID: -5735397636201330118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_150
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 292
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c109ea9f1e96a70800000000000000
+      internalID: 8820829807673613467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_151
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 286
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc73e9219802b830800000000000000
+      internalID: 4085337231544515768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_152
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 267
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43936061c7ef3ad40800000000000000
+      internalID: 5594594971023194420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_153
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 281
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2417d115c8d5cae0800000000000000
+      internalID: -1529578157502950353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_154
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 263
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f991a04182e531f0800000000000000
+      internalID: -1065696692040263178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_155
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 248
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05faf7c5219feeb50800000000000000
+      internalID: 6624505959165177680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_156
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 246
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d971eca13d0d39e0800000000000000
+      internalID: -1640140182287975979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_157
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 262
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431249b5018179160800000000000000
+      internalID: 7032115801697296692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_158
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 247
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385a6d21507cf9c70800000000000000
+      internalID: 8980115006604879235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_159
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 247
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46b03fa8ae715b50800000000000000
+      internalID: 6580179793523816010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_160
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 247
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc6b2911e3917c70800000000000000
+      internalID: 8967110928070569162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_161
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 246
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4381452785d479b0800000000000000
+      internalID: -5083203302972095666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_162
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 246
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fc2b33436d499b0800000000000000
+      internalID: -5074195360445706438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_163
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 245
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e66aa052654a83e0800000000000000
+      internalID: -2050750391751383323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_164
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 246
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1dc2ec96f500180800000000000000
+      internalID: -9151209534781599302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_165
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 247
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdcbf1e096505a50800000000000000
+      internalID: 6507796641817021937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_166
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 245
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424dd64dd1c242740800000000000000
+      internalID: 5126270782484108324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_167
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 245
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63563acf6b27ade00800000000000000
+      internalID: 1070293991702095158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_168
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 245
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb6752ed9144bcc0800000000000000
+      internalID: -3696257247801283595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_169
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 245
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06408aa7283a79f0800000000000000
+      internalID: -470001468091382259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_170
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 194
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228fb0e1b5fe6c500800000000000000
+      internalID: 416283190203512866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_171
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 206
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c46313f113fd180800000000000000
+      internalID: -9088491512970982261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_172
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 206
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1f6122dcbbd8f20800000000000000
+      internalID: 3426601381213434279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_173
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 206
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9f92199f8862240800000000000000
+      internalID: 4766647861081930229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_174
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 206
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdbb64508f20cc50800000000000000
+      internalID: 6683394075236482549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_175
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 206
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c424c3bab418c30800000000000000
+      internalID: 4359849113093819475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_176
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 206
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb237198411f3d590800000000000000
+      internalID: -7650506271470701889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_177
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 207
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96828db9dd7a37f80800000000000000
+      internalID: -8109953933719885719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_178
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 208
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7620717cd9938e510800000000000000
+      internalID: 1578575019206181479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_179
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 206
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cb044cef0e1bd60800000000000000
+      internalID: 7904346205830823005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_180
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 208
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219d225076ccf20b0800000000000000
+      internalID: -5751153456288966382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_181
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 207
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e285cbe248755a0800000000000000
+      internalID: -6532607398214357378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_182
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 208
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88e9edaaf76c3760800000000000000
+      internalID: 7438935010866489483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_183
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 206
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df377eedd173b0e0800000000000000
+      internalID: -2255333790379982892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_184
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 207
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c911ceb103786c0800000000000000
+      internalID: -4141288435861054404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_185
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 201
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07b9386d5e7cb140800000000000000
+      internalID: 4736799847732590346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_186
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 182
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd571236f4983fa0800000000000000
+      internalID: -5820738733253108261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_187
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 196
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48980bdca565a99f0800000000000000
+      internalID: -460961063854110332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_188
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 178
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09388049d166373b0800000000000000
+      internalID: -5515952841375054960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_189
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 163
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff922181b106ab6f0800000000000000
+      internalID: -668115925226870273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_190
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 161
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902b7d6066efe7400800000000000000
+      internalID: 323975937372172809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_191
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 177
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87117d942afd422d0800000000000000
+      internalID: -3304270338466573960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_192
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 162
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbaf7c00a9f5d8610800000000000000
+      internalID: 1625060155593325243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_193
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 162
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7761f39434117a00800000000000000
+      internalID: 752404828800509820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_194
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 162
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc5c1ca2940e08c0800000000000000
+      internalID: -4031279588450738989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_195
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 161
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42100adff32911d40800000000000000
+      internalID: 5553380619060248868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_196
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 161
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1324c071c6d40d0800000000000000
+      internalID: -3436972094368108043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_197
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 160
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2762fa639eb1f60800000000000000
+      internalID: 8006249183657226926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_198
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 161
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b357c6cb8dcc430800000000000000
+      internalID: 3804654089006300027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_199
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 162
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14697c6459ae2a8e0800000000000000
+      internalID: -1683525383824632255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_200
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 160
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34b8b3a39774c010800000000000000
+      internalID: 1208222076032824382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_201
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 160
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf4113cf36e7b590800000000000000
+      internalID: -7658399479790219332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_202
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 160
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efaa032b2dec51e80800000000000000
+      internalID: -8208427341484872962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_203
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 160
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89560d4624d635980800000000000000
+      internalID: -8551371135519791720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_204
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 118
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f90290351d380a60800000000000000
+      internalID: 7640423929052531193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_205
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 130
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983d7acd030005530800000000000000
+      internalID: 3841570692007449481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_206
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 130
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29883623b67a25700800000000000000
+      internalID: 527668185204492434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_207
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 130
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af175d67fd9f7dd50800000000000000
+      internalID: 6762148103686812154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_208
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 130
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced45f734f1962090800000000000000
+      internalID: -8059594005036053012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_209
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 130
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6680e2f4be8c71bb0800000000000000
+      internalID: -4965279151181395866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_210
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 130
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c503bafdc5096640800000000000000
+      internalID: 5073592837442045380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_211
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 131
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb1feb09b7be6e50800000000000000
+      internalID: 6804578092400450531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_212
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 132
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9093ea40710bb10800000000000000
+      internalID: 1995119943795411448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_213
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 130
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa016223a57a4f910800000000000000
+      internalID: 1870303751095849135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_214
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 132
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8074ea963675d030800000000000000
+      internalID: 3518848660758884491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_215
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 131
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fdc922adc1d1240800000000000000
+      internalID: 4763995704037007200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_216
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 132
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c394ce358edb66d0800000000000000
+      internalID: -2996056463219846200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_217
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 130
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6277ad3e6fd62d890800000000000000
+      internalID: -7434759127683139802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_218
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 131
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc4192768aafe2d0800000000000000
+      internalID: -3247189311886373676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_219
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 125
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d8a3197dfb90d70800000000000000
+      internalID: 9009943462106795374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_220
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 106
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6d37e365df6d170800000000000000
+      internalID: 8203022318158730926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_221
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 120
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d46b87d3e36e0910800000000000000
+      internalID: 1805490330847110361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_222
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 102
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71aa0ff414498e900800000000000000
+      internalID: 713983549173180951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_223
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 87
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9faade067b71ef90800000000000000
+      internalID: -6926119004933541985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_224
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 85
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b84b99612b75f70800000000000000
+      internalID: 9175998575928445753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_225
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 101
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897d7440e97fdb4c0800000000000000
+      internalID: -4269984613628651624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_226
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 86
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95d94526f16eca50800000000000000
+      internalID: 6543275018431354268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_227
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 86
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76147e86866c81a0800000000000000
+      internalID: -6805952208762038659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_228
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 86
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38aaccf5ccaeebc0800000000000000
+      internalID: -3751871473203369926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_229
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 85
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c70c26a8212d4b70800000000000000
+      internalID: 8884794098342168516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_230
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 85
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfd650eacdf51d90800000000000000
+      internalID: -7127511787454930998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_231
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 84
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31fe5d0319b1bde0800000000000000
+      internalID: -1319069724363001541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_232
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 85
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62ea86be5bcdf3e0800000000000000
+      internalID: -2018233450342194577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_233
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 86
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71460e19b1a3f2e80800000000000000
+      internalID: -8201272506332453865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_234
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 84
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40af9004651bf6d0800000000000000
+      internalID: -2955745211187224500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_235
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 84
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e45e88c78da90e0800000000000000
+      internalID: -2262257833415979501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_236
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 84
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106e0eb57860fcc50800000000000000
+      internalID: 6687571150100293121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_237
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 84
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902febf5a5a42c510800000000000000
+      internalID: 1567897372292215305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_238
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 43
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686540d2e8b851940800000000000000
+      internalID: 5266268782036539014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_239
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 55
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e259f5cb0659cbae0800000000000000
+      internalID: -1532185530503031506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_240
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 55
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d694edbc1cb6b60800000000000000
+      internalID: 7740493465918205188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_241
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 55
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7254322fbf73c4b0800000000000000
+      internalID: -5421349067534609793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_242
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 55
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b3be96c8df3a390800000000000000
+      internalID: -7808118549416035506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_243
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 55
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133d5b27a4b96f980800000000000000
+      internalID: -8505440102188199119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_244
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 55
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f91b1d9532c6f730800000000000000
+      internalID: 4032624051881712120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_245
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 56
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd55d0ffadee04f0800000000000000
+      internalID: -860489138865611330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_246
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 57
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c03dfc11ab0b2a0800000000000000
+      internalID: -6723669658000225197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_247
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 55
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23c8ee5e78a87dd0800000000000000
+      internalID: -2488053533410540753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_248
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 57
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e10c91d6ff665f40800000000000000
+      internalID: 5716879882862723560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_249
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 56
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a37c192c5c20a50800000000000000
+      internalID: 6485963852827015820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_250
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 57
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0117c88892f50a10800000000000000
+      internalID: 1875171556813377804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_251
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 55
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94daaa13c7c1bb590800000000000000
+      internalID: -7657495421678604983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_252
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 56
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d66bbfcf27267aa0800000000000000
+      internalID: -6163695953707833639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_253
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 50
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72adfe21a220440e0800000000000000
+      internalID: -2286700331067778521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_254
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 31
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca598e7e2734f9aa0800000000000000
+      internalID: -6152124405168695892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_255
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 45
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5608da4efae35ed20800000000000000
+      internalID: 3307118426550272101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_256
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 27
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0fee04393758370800000000000000
+      internalID: 8324186562551017726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_257
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 12
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffcfbea4385a95d0800000000000000
+      internalID: -3055032413924110350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_258
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 10
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000a8b4fb1f9cc680800000000000000
+      internalID: -8733430634959560704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_259
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3825ef93482f8f840800000000000000
+      internalID: 5258219214677627523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_260
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 11
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12449eeb1bed20920800000000000000
+      internalID: 2955169160502002721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_261
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 11
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89010090a57e4fda0800000000000000
+      internalID: -5911846036946546536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_262
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 11
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6d226efd71f18c0800000000000000
+      internalID: -4026473291439745321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_263
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 10
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fbad1ec17fdddd0800000000000000
+      internalID: -2459538118054068471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_264
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 10
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff430750c1460350800000000000000
+      internalID: 5982541449357643769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_265
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 9
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4cfb7ac78eda310800000000000000
+      internalID: 1418045079779525827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_266
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 10
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586ad91a0c6e2ccf0800000000000000
+      internalID: -233370515650271611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_267
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 11
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575f7b5c75bba7610800000000000000
+      internalID: 1619813001646830965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_268
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 9
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120f962716edd5460800000000000000
+      internalID: 7232181086739623969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_269
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 9
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63de49635caf417a0800000000000000
+      internalID: -6407220644910142154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_270
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 9
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627b5c4e097ec8690800000000000000
+      internalID: -7598443861781399770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_founded_icons_notes_271
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 9
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bae7993e9b672860800000000000000
+      internalID: 7505085631351483065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Not_founded_icons_notes_0: 1798962979350861138
+      Not_founded_icons_notes_1: 751331130566053609
+      Not_founded_icons_notes_10: -5967346518813927362
+      Not_founded_icons_notes_100: 1650436310736827189
+      Not_founded_icons_notes_101: -1685798038180135084
+      Not_founded_icons_notes_102: 124606130293189544
+      Not_founded_icons_notes_103: 4094013431603776092
+      Not_founded_icons_notes_104: -8438683961018606906
+      Not_founded_icons_notes_105: -3447521457039304646
+      Not_founded_icons_notes_106: 8953944102234618399
+      Not_founded_icons_notes_107: -1575195419020823234
+      Not_founded_icons_notes_108: -3390583509576105962
+      Not_founded_icons_notes_109: -4282116459380130877
+      Not_founded_icons_notes_11: -5941489530289924178
+      Not_founded_icons_notes_110: -4351924620558927217
+      Not_founded_icons_notes_111: 5917701938983712040
+      Not_founded_icons_notes_112: -6525527430964251026
+      Not_founded_icons_notes_113: 5773614657048895120
+      Not_founded_icons_notes_114: -5029162981174969786
+      Not_founded_icons_notes_115: -7034967659809919849
+      Not_founded_icons_notes_116: 8201845331112943996
+      Not_founded_icons_notes_117: -3239128307728443604
+      Not_founded_icons_notes_118: 326721914308589365
+      Not_founded_icons_notes_119: 8964037963783912238
+      Not_founded_icons_notes_12: 9155628293929974488
+      Not_founded_icons_notes_120: -6664845623815022371
+      Not_founded_icons_notes_121: -1535427936232421236
+      Not_founded_icons_notes_122: -6988839159533752477
+      Not_founded_icons_notes_123: -5789207886882713088
+      Not_founded_icons_notes_124: 5529374537759241237
+      Not_founded_icons_notes_125: -764965727890208498
+      Not_founded_icons_notes_126: -4602995879038347567
+      Not_founded_icons_notes_127: 7076462615706538951
+      Not_founded_icons_notes_128: 1171241826593866553
+      Not_founded_icons_notes_129: 5672543770553970219
+      Not_founded_icons_notes_13: -4680885831950827451
+      Not_founded_icons_notes_130: 2195669352613700031
+      Not_founded_icons_notes_131: -5044358410252872501
+      Not_founded_icons_notes_132: -6848287373797594794
+      Not_founded_icons_notes_133: -5068215294898738601
+      Not_founded_icons_notes_134: -6825343813542109402
+      Not_founded_icons_notes_135: -3109156320611377776
+      Not_founded_icons_notes_136: 1503966815812219462
+      Not_founded_icons_notes_137: -5157278826572129099
+      Not_founded_icons_notes_138: -4957960807694552087
+      Not_founded_icons_notes_139: 2064512690382976402
+      Not_founded_icons_notes_14: 4074456061383164196
+      Not_founded_icons_notes_140: 4272085183889115231
+      Not_founded_icons_notes_141: -547323626204385080
+      Not_founded_icons_notes_142: 6158015242714507538
+      Not_founded_icons_notes_143: -6593945025848083537
+      Not_founded_icons_notes_144: 7932516833201124737
+      Not_founded_icons_notes_145: -7431237521176254516
+      Not_founded_icons_notes_146: -1364555211250950855
+      Not_founded_icons_notes_147: 3333950864101591771
+      Not_founded_icons_notes_148: 2185801696345341333
+      Not_founded_icons_notes_149: -5735397636201330118
+      Not_founded_icons_notes_15: -2820804117643122626
+      Not_founded_icons_notes_150: 8820829807673613467
+      Not_founded_icons_notes_151: 4085337231544515768
+      Not_founded_icons_notes_152: 5594594971023194420
+      Not_founded_icons_notes_153: -1529578157502950353
+      Not_founded_icons_notes_154: -1065696692040263178
+      Not_founded_icons_notes_155: 6624505959165177680
+      Not_founded_icons_notes_156: -1640140182287975979
+      Not_founded_icons_notes_157: 7032115801697296692
+      Not_founded_icons_notes_158: 8980115006604879235
+      Not_founded_icons_notes_159: 6580179793523816010
+      Not_founded_icons_notes_16: 5561324256698582525
+      Not_founded_icons_notes_160: 8967110928070569162
+      Not_founded_icons_notes_161: -5083203302972095666
+      Not_founded_icons_notes_162: -5074195360445706438
+      Not_founded_icons_notes_163: -2050750391751383323
+      Not_founded_icons_notes_164: -9151209534781599302
+      Not_founded_icons_notes_165: 6507796641817021937
+      Not_founded_icons_notes_166: 5126270782484108324
+      Not_founded_icons_notes_167: 1070293991702095158
+      Not_founded_icons_notes_168: -3696257247801283595
+      Not_founded_icons_notes_169: -470001468091382259
+      Not_founded_icons_notes_17: -1104810915653717271
+      Not_founded_icons_notes_170: 416283190203512866
+      Not_founded_icons_notes_171: -9088491512970982261
+      Not_founded_icons_notes_172: 3426601381213434279
+      Not_founded_icons_notes_173: 4766647861081930229
+      Not_founded_icons_notes_174: 6683394075236482549
+      Not_founded_icons_notes_175: 4359849113093819475
+      Not_founded_icons_notes_176: -7650506271470701889
+      Not_founded_icons_notes_177: -8109953933719885719
+      Not_founded_icons_notes_178: 1578575019206181479
+      Not_founded_icons_notes_179: 7904346205830823005
+      Not_founded_icons_notes_18: -2624036161997079747
+      Not_founded_icons_notes_180: -5751153456288966382
+      Not_founded_icons_notes_181: -6532607398214357378
+      Not_founded_icons_notes_182: 7438935010866489483
+      Not_founded_icons_notes_183: -2255333790379982892
+      Not_founded_icons_notes_184: -4141288435861054404
+      Not_founded_icons_notes_185: 4736799847732590346
+      Not_founded_icons_notes_186: -5820738733253108261
+      Not_founded_icons_notes_187: -460961063854110332
+      Not_founded_icons_notes_188: -5515952841375054960
+      Not_founded_icons_notes_189: -668115925226870273
+      Not_founded_icons_notes_19: 2804848448938437763
+      Not_founded_icons_notes_190: 323975937372172809
+      Not_founded_icons_notes_191: -3304270338466573960
+      Not_founded_icons_notes_192: 1625060155593325243
+      Not_founded_icons_notes_193: 752404828800509820
+      Not_founded_icons_notes_194: -4031279588450738989
+      Not_founded_icons_notes_195: 5553380619060248868
+      Not_founded_icons_notes_196: -3436972094368108043
+      Not_founded_icons_notes_197: 8006249183657226926
+      Not_founded_icons_notes_198: 3804654089006300027
+      Not_founded_icons_notes_199: -1683525383824632255
+      Not_founded_icons_notes_2: 5642886755806321841
+      Not_founded_icons_notes_20: -1132352269827370079
+      Not_founded_icons_notes_200: 1208222076032824382
+      Not_founded_icons_notes_201: -7658399479790219332
+      Not_founded_icons_notes_202: -8208427341484872962
+      Not_founded_icons_notes_203: -8551371135519791720
+      Not_founded_icons_notes_204: 7640423929052531193
+      Not_founded_icons_notes_205: 3841570692007449481
+      Not_founded_icons_notes_206: 527668185204492434
+      Not_founded_icons_notes_207: 6762148103686812154
+      Not_founded_icons_notes_208: -8059594005036053012
+      Not_founded_icons_notes_209: -4965279151181395866
+      Not_founded_icons_notes_21: -6649116737827216870
+      Not_founded_icons_notes_210: 5073592837442045380
+      Not_founded_icons_notes_211: 6804578092400450531
+      Not_founded_icons_notes_212: 1995119943795411448
+      Not_founded_icons_notes_213: 1870303751095849135
+      Not_founded_icons_notes_214: 3518848660758884491
+      Not_founded_icons_notes_215: 4763995704037007200
+      Not_founded_icons_notes_216: -2996056463219846200
+      Not_founded_icons_notes_217: -7434759127683139802
+      Not_founded_icons_notes_218: -3247189311886373676
+      Not_founded_icons_notes_219: 9009943462106795374
+      Not_founded_icons_notes_22: 4754868471458559569
+      Not_founded_icons_notes_220: 8203022318158730926
+      Not_founded_icons_notes_221: 1805490330847110361
+      Not_founded_icons_notes_222: 713983549173180951
+      Not_founded_icons_notes_223: -6926119004933541985
+      Not_founded_icons_notes_224: 9175998575928445753
+      Not_founded_icons_notes_225: -4269984613628651624
+      Not_founded_icons_notes_226: 6543275018431354268
+      Not_founded_icons_notes_227: -6805952208762038659
+      Not_founded_icons_notes_228: -3751871473203369926
+      Not_founded_icons_notes_229: 8884794098342168516
+      Not_founded_icons_notes_23: -7574267790151129612
+      Not_founded_icons_notes_230: -7127511787454930998
+      Not_founded_icons_notes_231: -1319069724363001541
+      Not_founded_icons_notes_232: -2018233450342194577
+      Not_founded_icons_notes_233: -8201272506332453865
+      Not_founded_icons_notes_234: -2955745211187224500
+      Not_founded_icons_notes_235: -2262257833415979501
+      Not_founded_icons_notes_236: 6687571150100293121
+      Not_founded_icons_notes_237: 1567897372292215305
+      Not_founded_icons_notes_238: 5266268782036539014
+      Not_founded_icons_notes_239: -1532185530503031506
+      Not_founded_icons_notes_24: 6330660365939160491
+      Not_founded_icons_notes_240: 7740493465918205188
+      Not_founded_icons_notes_241: -5421349067534609793
+      Not_founded_icons_notes_242: -7808118549416035506
+      Not_founded_icons_notes_243: -8505440102188199119
+      Not_founded_icons_notes_244: 4032624051881712120
+      Not_founded_icons_notes_245: -860489138865611330
+      Not_founded_icons_notes_246: -6723669658000225197
+      Not_founded_icons_notes_247: -2488053533410540753
+      Not_founded_icons_notes_248: 5716879882862723560
+      Not_founded_icons_notes_249: 6485963852827015820
+      Not_founded_icons_notes_25: -7484307048538608033
+      Not_founded_icons_notes_250: 1875171556813377804
+      Not_founded_icons_notes_251: -7657495421678604983
+      Not_founded_icons_notes_252: -6163695953707833639
+      Not_founded_icons_notes_253: -2286700331067778521
+      Not_founded_icons_notes_254: -6152124405168695892
+      Not_founded_icons_notes_255: 3307118426550272101
+      Not_founded_icons_notes_256: 8324186562551017726
+      Not_founded_icons_notes_257: -3055032413924110350
+      Not_founded_icons_notes_258: -8733430634959560704
+      Not_founded_icons_notes_259: 5258219214677627523
+      Not_founded_icons_notes_26: 6379396353888287789
+      Not_founded_icons_notes_260: 2955169160502002721
+      Not_founded_icons_notes_261: -5911846036946546536
+      Not_founded_icons_notes_262: -4026473291439745321
+      Not_founded_icons_notes_263: -2459538118054068471
+      Not_founded_icons_notes_264: 5982541449357643769
+      Not_founded_icons_notes_265: 1418045079779525827
+      Not_founded_icons_notes_266: -233370515650271611
+      Not_founded_icons_notes_267: 1619813001646830965
+      Not_founded_icons_notes_268: 7232181086739623969
+      Not_founded_icons_notes_269: -6407220644910142154
+      Not_founded_icons_notes_27: -2249006956773032011
+      Not_founded_icons_notes_270: -7598443861781399770
+      Not_founded_icons_notes_271: 7505085631351483065
+      Not_founded_icons_notes_28: -7067662901489141587
+      Not_founded_icons_notes_29: 2277326121193281362
+      Not_founded_icons_notes_3: 3055824256455346011
+      Not_founded_icons_notes_30: -8613127726438629097
+      Not_founded_icons_notes_31: 4274585241185202706
+      Not_founded_icons_notes_32: -7452628871983024336
+      Not_founded_icons_notes_33: -6378857443023876181
+      Not_founded_icons_notes_34: -3753098688828197446
+      Not_founded_icons_notes_35: 3830136219237938092
+      Not_founded_icons_notes_36: 6292029213865970456
+      Not_founded_icons_notes_37: -1511167902146211273
+      Not_founded_icons_notes_38: -8876830280986681767
+      Not_founded_icons_notes_39: -8184606444548070506
+      Not_founded_icons_notes_4: -641793257743221696
+      Not_founded_icons_notes_40: 5590715420721442860
+      Not_founded_icons_notes_41: 1802887957684397423
+      Not_founded_icons_notes_42: 8668263888556698542
+      Not_founded_icons_notes_43: -4667353370746458613
+      Not_founded_icons_notes_44: 6851991926422143934
+      Not_founded_icons_notes_45: -8951226925266982296
+      Not_founded_icons_notes_46: 6707233053136597601
+      Not_founded_icons_notes_47: -3398965658690283291
+      Not_founded_icons_notes_48: 8863977848028326155
+      Not_founded_icons_notes_49: 3554949091836167219
+      Not_founded_icons_notes_5: -4731625633011176682
+      Not_founded_icons_notes_50: -4700841418606431495
+      Not_founded_icons_notes_51: -5321873082470782024
+      Not_founded_icons_notes_52: -7608046575662071116
+      Not_founded_icons_notes_53: -3850469385776621073
+      Not_founded_icons_notes_54: 7468963836832554910
+      Not_founded_icons_notes_55: -4096659311296975444
+      Not_founded_icons_notes_56: 5526390127479464020
+      Not_founded_icons_notes_57: 8692340720798642263
+      Not_founded_icons_notes_58: 1344734294012220988
+      Not_founded_icons_notes_59: 485520917381224965
+      Not_founded_icons_notes_6: 4803770945799226675
+      Not_founded_icons_notes_60: -1869048952107703515
+      Not_founded_icons_notes_61: -7319757596866865455
+      Not_founded_icons_notes_62: 2595908577370808728
+      Not_founded_icons_notes_63: -4106784686016484297
+      Not_founded_icons_notes_64: -4686608091449492474
+      Not_founded_icons_notes_65: 8919066244871339089
+      Not_founded_icons_notes_66: 8582131987317596820
+      Not_founded_icons_notes_67: 6823206913526302580
+      Not_founded_icons_notes_68: -7468876818894393940
+      Not_founded_icons_notes_69: -801895949718889886
+      Not_founded_icons_notes_7: 6969123635409154853
+      Not_founded_icons_notes_70: -2670034321401389092
+      Not_founded_icons_notes_71: -118983386907397641
+      Not_founded_icons_notes_72: -6780224998311978779
+      Not_founded_icons_notes_73: -1486728120280837177
+      Not_founded_icons_notes_74: -888139070739416147
+      Not_founded_icons_notes_75: -8197639202117547999
+      Not_founded_icons_notes_76: 4874985509247249775
+      Not_founded_icons_notes_77: 4484271851563475843
+      Not_founded_icons_notes_78: 4635262358305379236
+      Not_founded_icons_notes_79: 88490022144282126
+      Not_founded_icons_notes_8: 2041751552350878560
+      Not_founded_icons_notes_80: -5872090618186788771
+      Not_founded_icons_notes_81: -7006666964929234456
+      Not_founded_icons_notes_82: -458280800096877442
+      Not_founded_icons_notes_83: 1743643082041299029
+      Not_founded_icons_notes_84: -6330439217867404680
+      Not_founded_icons_notes_85: -1065959002654326164
+      Not_founded_icons_notes_86: 7301031032717949929
+      Not_founded_icons_notes_87: -5176474040727882593
+      Not_founded_icons_notes_88: -7703159636534518887
+      Not_founded_icons_notes_89: 5979825192412978234
+      Not_founded_icons_notes_9: -2699331288399689233
+      Not_founded_icons_notes_90: 7338505446983640512
+      Not_founded_icons_notes_91: -1574534477090891510
+      Not_founded_icons_notes_92: -3664001262825024011
+      Not_founded_icons_notes_93: -8783255008883044223
+      Not_founded_icons_notes_94: -8718068711516216824
+      Not_founded_icons_notes_95: -8048139133053109133
+      Not_founded_icons_notes_96: 2433363022440206352
+      Not_founded_icons_notes_97: 6240872087963421037
+      Not_founded_icons_notes_98: 5075523758648755481
+      Not_founded_icons_notes_99: 1065488188057511882
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

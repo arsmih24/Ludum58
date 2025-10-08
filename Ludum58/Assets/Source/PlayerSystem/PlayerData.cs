@@ -24,5 +24,5 @@ public class PlayerData : MonoBehaviour
     public float SprintRecharge { get; private set; }
 
     [field: SerializeField]
-    public bool CanMove { get; set; }
+    public bool CanMove { get; set; } = true;
 }

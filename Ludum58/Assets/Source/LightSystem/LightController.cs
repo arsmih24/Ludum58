@@ -11,6 +11,10 @@ namespace LightSystem
         [SerializeField][Range(0.1f, 10f)] private float maxCharge = 5f;
         [SerializeField][Range(0.1f, 5f)] private float drainPerSec = 1f;
         [SerializeField][Range(0.01f, 2f)] private float rechargePerSec = 0.2f;
+        [Space]
+        [SerializeField] private AudioSource audioSource;
+        [SerializeField] private AudioClip uvOnClip;
+        [SerializeField] private AudioClip uvOffClip;
 
         public float Charge => _currentCharge / maxCharge;
 
@@ -42,14 +46,18 @@ namespace LightSystem
 
         public void EnableUV()
         {
+            if (Time.timeScale == 0.0f) return;
             if (_currentCharge <= 0f) return;
+            audioSource.PlayOneShot(uvOnClip);
             _uvActive = true;
             SyncLights();
         }
 
         public void DisableUV()
         {
+            if (Time.timeScale == 0.0f) return;
             if (!_uvActive) return;
+            audioSource.PlayOneShot(uvOffClip);
             _uvActive = false;
             SyncLights();
         }
