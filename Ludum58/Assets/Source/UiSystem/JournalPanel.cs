@@ -15,6 +15,10 @@ namespace UiSystem
         [SerializeField] private GameObject mapPage;
         [Space]
         [SerializeField] private GameObject journalPanel;
+        [Space]
+        [SerializeField] private AudioSource audioSource;
+        [SerializeField] private AudioClip journalClip;
+        [SerializeField] private AudioClip pagesClip;
 
         private bool _isOpened = false;
 
@@ -30,6 +34,8 @@ namespace UiSystem
 
         public void SetJournal()
         {
+            audioSource.PlayOneShot(journalClip);
+
             if (!_isOpened)
                 OpenJournal();
 
@@ -53,6 +59,8 @@ namespace UiSystem
 
         private void OpenItemsPage() 
         {
+            audioSource.PlayOneShot(pagesClip);
+
             itemsPage.gameObject.SetActive(true);
             notesPage.SetActive(false);
             mapPage.SetActive(false);
@@ -60,6 +68,8 @@ namespace UiSystem
 
         private void OpenNotesPage()
         {
+            audioSource.PlayOneShot(pagesClip);
+
             itemsPage.gameObject.SetActive(false);
             notesPage.SetActive(true);
             mapPage.SetActive(false);
@@ -67,6 +77,8 @@ namespace UiSystem
 
         private void OpenMapPage()
         {
+            audioSource.PlayOneShot(pagesClip);
+
             itemsPage.gameObject.SetActive(false);
             notesPage.SetActive(false);
             mapPage.SetActive(true);
