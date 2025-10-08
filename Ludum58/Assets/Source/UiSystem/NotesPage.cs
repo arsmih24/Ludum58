@@ -25,6 +25,9 @@ namespace UiSystem
         [SerializeField] private GameObject therapyPanel;
         [SerializeField] private GameObject whatTheyDidPanel;
         [SerializeField] private GameObject continueTestingPanel;
+        [Space]
+        [SerializeField] private AudioSource audioSource;
+        [SerializeField] private AudioClip buttonSound;
 
         private GameObject _previousPanel;
 
@@ -85,6 +88,8 @@ namespace UiSystem
 
         private void TutorialButton() 
         {
+            audioSource.PlayOneShot(buttonSound);
+
             if (_previousPanel)
                 _previousPanel.SetActive(false);
             tutorialPanel.SetActive(true);
@@ -93,6 +98,8 @@ namespace UiSystem
 
         private void TimeToDieButton()
         {
+            audioSource.PlayOneShot(buttonSound);
+
             if (_previousPanel)
                 _previousPanel.SetActive(false);
             timeToDiePanel.SetActive(true);
@@ -101,6 +108,8 @@ namespace UiSystem
 
         private void PatientReportButton()
         {
+            audioSource.PlayOneShot(buttonSound);
+
             if (_previousPanel)
                 _previousPanel.SetActive(false);
             patientReportPanel.SetActive(true);
@@ -109,6 +118,8 @@ namespace UiSystem
 
         private void SypButton()
         {
+            audioSource.PlayOneShot(buttonSound);
+
             if (_previousPanel)
                 _previousPanel.SetActive(false);
             sypPanel.SetActive(true);
@@ -117,6 +128,8 @@ namespace UiSystem
 
         private void NoGodButton()
         {
+            audioSource.PlayOneShot(buttonSound);
+
             if (_previousPanel)
                 _previousPanel.SetActive(false);
             noGodPanel.SetActive(true);
@@ -125,6 +138,8 @@ namespace UiSystem
 
         private void TherapyButton()
         {
+            audioSource.PlayOneShot(buttonSound);
+
             if (_previousPanel)
                 _previousPanel.SetActive(false);
             therapyPanel.SetActive(true);
@@ -133,6 +148,8 @@ namespace UiSystem
 
         private void WhatTheyDidButton()
         {
+            audioSource.PlayOneShot(buttonSound);
+
             if (_previousPanel)
                 _previousPanel.SetActive(false);
             whatTheyDidPanel.SetActive(true);
@@ -141,6 +158,8 @@ namespace UiSystem
 
         private void ContinueTestingButton()
         {
+            audioSource.PlayOneShot(buttonSound);
+
             if (_previousPanel)
                 _previousPanel.SetActive(false);
             continueTestingPanel.SetActive(true);

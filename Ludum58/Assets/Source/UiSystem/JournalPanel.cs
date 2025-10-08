@@ -17,7 +17,9 @@ namespace UiSystem
         [SerializeField] private GameObject journalPanel;
         [Space]
         [SerializeField] private AudioSource audioSource;
-        [SerializeField] private AudioClip journalClip;
+        [SerializeField] private AudioSource audioSourceClose;
+        [SerializeField] private AudioClip journalOpenClip;
+        [SerializeField] private AudioClip journalCloseClip;
         [SerializeField] private AudioClip pagesClip;
 
         private bool _isOpened = false;
@@ -34,8 +36,6 @@ namespace UiSystem
 
         public void SetJournal()
         {
-            audioSource.PlayOneShot(journalClip);
-
             if (!_isOpened)
                 OpenJournal();
 
@@ -45,6 +45,8 @@ namespace UiSystem
 
         private void OpenJournal()
         {
+            audioSource.PlayOneShot(journalOpenClip);
+
             journalPanel.SetActive(true);
             Time.timeScale = 0.0f;
             _isOpened = true;
@@ -52,6 +54,8 @@ namespace UiSystem
 
         private void CloseJournal()
         {
+            audioSourceClose.PlayOneShot(journalCloseClip);
+
             journalPanel.SetActive(false);
             Time.timeScale = 1.0f;
             _isOpened = false;
