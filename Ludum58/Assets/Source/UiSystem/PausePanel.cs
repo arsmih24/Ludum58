@@ -9,6 +9,10 @@ namespace UiSystem
         [SerializeField] private Button mainMenuButton;
         [Space]
         [SerializeField] private GameObject panel;
+        [Space]
+        [SerializeField] private AudioSource audioSource;
+        [SerializeField] private AudioClip panelClip;
+        [SerializeField] private AudioClip buttonClip;
 
         private bool _isPaused = false;
 
@@ -31,6 +35,7 @@ namespace UiSystem
 
         private void StartPause()
         {
+            audioSource.PlayOneShot(panelClip);
             panel.SetActive(true);
             Time.timeScale = 0.0f;
             _isPaused = true;
@@ -38,6 +43,7 @@ namespace UiSystem
 
         private void EndPause()
         {
+            audioSource.PlayOneShot(panelClip);
             panel.SetActive(false);
             Time.timeScale = 1.0f;
             _isPaused = false;
@@ -45,6 +51,7 @@ namespace UiSystem
 
         private void MainMenu()
         {
+            audioSource.PlayOneShot(buttonClip);
             Level.MainMenu();
         }
 
