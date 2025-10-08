@@ -17,7 +17,7 @@ namespace PlayerSystem
         public bool HasPurpleCard { get; private set; } = false;
         public bool HasRedCard { get; private set; } = false;
 
-        public bool HasTutorialNote { get; private set; } = false;
+        public bool HasTutorialNote { get; private set; } = true;
         public bool HasTimeToDieNote { get; private set; } = false;
         public bool HasPatientReportNote { get; private set; } = false;
         public bool HasSypNote { get; private set; } = false;
