@@ -120,7 +120,7 @@ public class EnemyAI : MonoBehaviour
         if (col.gameObject.TryGetComponent<PlayerController>(out PlayerController player))
         {
             Attack();
-            //player.Death();
+            player.Death();
         }
     }
 
