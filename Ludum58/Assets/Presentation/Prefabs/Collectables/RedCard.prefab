@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 79652761505946740}
   - component: {fileID: 197178116678690996}
   - component: {fileID: 292476514906176094}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -113,7 +113,7 @@ GameObject:
   - component: {fileID: 1866501388363517687}
   - component: {fileID: 3717621237241283396}
   - component: {fileID: 2835017481415928458}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: E
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -189,7 +189,7 @@ GameObject:
   - component: {fileID: 538522542654656801}
   - component: {fileID: 7689179594843176584}
   - component: {fileID: 8233702104083765888}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: RedCard
   m_TagString: RedCard
   m_Icon: {fileID: 0}

@@ -53,7 +53,6 @@ namespace UiSystem
 
         private void OpenItemsPage() 
         {
-            //itemsPage.UpdateButtons();
             itemsPage.gameObject.SetActive(true);
             notesPage.SetActive(false);
             mapPage.SetActive(false);

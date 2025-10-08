@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: f22a3dddaf709f24b9b983c3aeafa18f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1695666427226945839
+    second: Time_to_die_0
+  - first:
+      213: -3991902396762217434
+    second: Time_to_die_1
+  - first:
+      213: 8017627316008889017
+    second: Time_to_die_2
+  - first:
+      213: 7385996707071751971
+    second: Time_to_die_3
+  - first:
+      213: 3478567602062610872
+    second: Time_to_die_4
+  - first:
+      213: -1267101260691149433
+    second: Time_to_die_5
+  - first:
+      213: 7160533485422784762
+    second: Time_to_die_6
+  - first:
+      213: 3418591658400236700
+    second: Time_to_die_7
+  - first:
+      213: -8440122043889172653
+    second: Time_to_die_8
+  - first:
+      213: 4779647100278979456
+    second: Time_to_die_9
+  - first:
+      213: 6129414150613315487
+    second: Time_to_die_10
+  - first:
+      213: -721966416468116008
+    second: Time_to_die_11
+  - first:
+      213: 2697205026984459103
+    second: Time_to_die_12
+  - first:
+      213: 8548360064542755673
+    second: Time_to_die_13
+  - first:
+      213: -7126667432786403374
+    second: Time_to_die_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Time_to_die_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 458
+        width: 117
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d605935e58c778e0800000000000000
+      internalID: -1695666427226945839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_to_die_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 420
+        width: 121
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62425fe8be9e998c0800000000000000
+      internalID: -3991902396762217434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_to_die_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 354
+        width: 153
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9baad209095544f60800000000000000
+      internalID: 8017627316008889017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_to_die_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 314
+        width: 364
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32777355fd4508660800000000000000
+      internalID: 7385996707071751971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_to_die_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 269
+        width: 362
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1df18cdca564030800000000000000
+      internalID: 3478567602062610872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_to_die_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 251
+        width: 59
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ded06ed1a5a6ee0800000000000000
+      internalID: -1267101260691149433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_to_die_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 227
+        width: 377
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af03ae054435f5360800000000000000
+      internalID: 7160533485422784762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_to_die_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 185
+        width: 356
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c944f073007417f20800000000000000
+      internalID: 3418591658400236700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_to_die_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 167
+        width: 112
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fba0108b9aeda80800000000000000
+      internalID: -8440122043889172653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_to_die_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 143
+        width: 348
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bbadbc6b7b45240800000000000000
+      internalID: 4779647100278979456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_to_die_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 101
+        width: 324
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f2f88e1bd001550800000000000000
+      internalID: 6129414150613315487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_to_die_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 83
+        width: 67
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddf7ae8e5f0bf5f0800000000000000
+      internalID: -721966416468116008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_to_die_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 62
+        width: 326
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b7ecf7ea56e6520800000000000000
+      internalID: 2697205026984459103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_to_die_13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 17
+        width: 361
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bc4330030e1a670800000000000000
+      internalID: 8548360064542755673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_to_die_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfdb648abdf81d90800000000000000
+      internalID: -7126667432786403374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Time_to_die_0: -1695666427226945839
+      Time_to_die_1: -3991902396762217434
+      Time_to_die_10: 6129414150613315487
+      Time_to_die_11: -721966416468116008
+      Time_to_die_12: 2697205026984459103
+      Time_to_die_13: 8548360064542755673
+      Time_to_die_14: -7126667432786403374
+      Time_to_die_2: 8017627316008889017
+      Time_to_die_3: 7385996707071751971
+      Time_to_die_4: 3478567602062610872
+      Time_to_die_5: -1267101260691149433
+      Time_to_die_6: 7160533485422784762
+      Time_to_die_7: 3418591658400236700
+      Time_to_die_8: -8440122043889172653
+      Time_to_die_9: 4779647100278979456
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

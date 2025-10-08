@@ -5,11 +5,23 @@ namespace PlayerSystem
 {
     public class PlayerController : MonoBehaviour
     {
+        [SerializeField] private GameObject elevatorClosed;
+        [SerializeField] private GameObject elevatorOpened;
+
         public bool HasEye { get; private set; } = false;
         public bool HasHand { get; private set; } = false;
         public bool HasGreenCard { get; private set; } = false;
         public bool HasPurpleCard { get; private set; } = false;
         public bool HasRedCard { get; private set; } = false;
+
+        public bool HasTutorialNote { get; private set; } = false;
+        public bool HasTimeToDieNote { get; private set; } = false;
+        public bool HasPatientReportNote { get; private set; } = false;
+        public bool HasSypNote { get; private set; } = false;
+        public bool HasNoGodNote { get; private set; } = false;
+        public bool HasTherapyNote { get; private set; } = false;
+        public bool HasWhatTheyDidNote { get; private set; } = false;
+        public bool HasContinueTestingNote { get; private set; } = false;
 
         private Collectable _collectable;
         private PlayerData _playerData;
@@ -22,6 +34,17 @@ namespace PlayerSystem
         private const string _purpleCardTag = "PurpleCard";
         private const string _redCardTag = "RedCard";
 
+        private const string _tutorialNote = "TutorialNote";
+        private const string _timeToDieNote = "TimeToDieNote";
+        private const string _patientReportNote = "PatientReportNote";
+        private const string _sypNote = "SypNote";
+        private const string _noGodNote = "NoGodNote";
+        private const string _therapyNote = "TherapyNote";
+        private const string _whatTheyDidNote = "WhatTheyDidNote";
+        private const string _continueTestingNote = "ContinueTestingNote";
+
+        private const string _elevatorTag = "Elevator";
+
         public void Construct(PlayerData playerData, UiController uiController) 
         {
             _playerData = playerData;
@@ -30,11 +53,14 @@ namespace PlayerSystem
 
         private void OnTriggerEnter2D(Collider2D collision)
         {
-            if (collision.TryGetComponent(out Collectable col)) 
+            if (collision.TryGetComponent(out Collectable col))
             {
                 col.ShowCanvas();
                 _collectable = col;
             }
+
+            else if (collision.gameObject.CompareTag(_elevatorTag))
+                EndGame();  
         }
 
         private void OnTriggerExit2D(Collider2D collision)
@@ -50,10 +76,11 @@ namespace PlayerSystem
         {
             if (_collectable) 
             {
-                if (_collectable.gameObject.CompareTag(_eyeTag)) 
+                if (_collectable.gameObject.CompareTag(_eyeTag))
                 {
                     HasEye = true;
                     _usefulCollectablesCount++;
+                    CheckUsefulCollectables();
                     _collectable.gameObject.SetActive(false);
                     _collectable = null;
                 }
@@ -62,6 +89,7 @@ namespace PlayerSystem
                 {
                     HasHand = true;
                     _usefulCollectablesCount++;
+                    CheckUsefulCollectables();
                     _collectable.gameObject.SetActive(false);
                     _collectable = null;
                 }
@@ -70,6 +98,7 @@ namespace PlayerSystem
                 {
                     HasGreenCard = true;
                     _usefulCollectablesCount++;
+                    CheckUsefulCollectables();
                     _collectable.gameObject.SetActive(false);
                     _collectable = null;
                 }
@@ -78,6 +107,7 @@ namespace PlayerSystem
                 {
                     HasPurpleCard = true;
                     _usefulCollectablesCount++;
+                    CheckUsefulCollectables();
                     _collectable.gameObject.SetActive(false);
                     _collectable = null;
                 }
@@ -86,6 +116,63 @@ namespace PlayerSystem
                 {
                     HasRedCard = true;
                     _usefulCollectablesCount++;
+                    CheckUsefulCollectables();
+                    _collectable.gameObject.SetActive(false);
+                    _collectable = null;
+                }
+
+                else if (_collectable.gameObject.CompareTag(_tutorialNote)) 
+                {
+                    HasTutorialNote = true;
+                    _collectable.gameObject.SetActive(false);
+                    _collectable = null;
+                }
+
+                else if (_collectable.gameObject.CompareTag(_timeToDieNote))
+                {
+                    HasTimeToDieNote = true;
+                    _collectable.gameObject.SetActive(false);
+                    _collectable = null;
+                }
+
+                else if (_collectable.gameObject.CompareTag(_patientReportNote))
+                {
+                    HasPatientReportNote = true;
+                    _collectable.gameObject.SetActive(false);
+                    _collectable = null;
+                }
+
+                else if (_collectable.gameObject.CompareTag(_sypNote))
+                {
+                    HasSypNote = true;
+                    _collectable.gameObject.SetActive(false);
+                    _collectable = null;
+                }
+
+                else if (_collectable.gameObject.CompareTag(_noGodNote))
+                {
+                    HasNoGodNote = true;
+                    _collectable.gameObject.SetActive(false);
+                    _collectable = null;
+                }
+
+                else if (_collectable.gameObject.CompareTag(_therapyNote))
+                {
+                    HasTherapyNote = true;
+                    _collectable.gameObject.SetActive(false);
+                    _collectable = null;
+                }
+
+                else if (_collectable.gameObject.CompareTag(_whatTheyDidNote))
+                {
+                    HasWhatTheyDidNote = true;
+                    _collectable.gameObject.SetActive(false);
+                    _collectable = null;
+                }
+
+                else if (_collectable.gameObject.CompareTag(_continueTestingNote))
+                {
+                    HasContinueTestingNote = true;
                     _collectable.gameObject.SetActive(false);
                     _collectable = null;
                 }
@@ -96,6 +183,21 @@ namespace PlayerSystem
         {
             _playerData.CanMove = false;
             _uiController.ReloadGame();
+        }
+
+        private void EndGame()
+        {
+            _playerData.CanMove = false;
+            _uiController.EndGame();
+        }
+
+        private void CheckUsefulCollectables() 
+        {
+            if (_usefulCollectablesCount == 5) 
+            {
+                elevatorClosed.SetActive(false);
+                elevatorOpened.SetActive(true);
+            }
         }
     }
 }
