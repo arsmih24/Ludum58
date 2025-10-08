@@ -7,6 +7,9 @@ namespace PlayerSystem
     {
         [SerializeField] private GameObject elevatorClosed;
         [SerializeField] private GameObject elevatorOpened;
+        [Space]
+        [SerializeField] private AudioSource audioSource;
+        [SerializeField] private AudioClip collectClip;
 
         public bool HasEye { get; private set; } = false;
         public bool HasHand { get; private set; } = false;
@@ -76,6 +79,8 @@ namespace PlayerSystem
         {
             if (_collectable) 
             {
+                audioSource.PlayOneShot(collectClip);
+
                 if (_collectable.gameObject.CompareTag(_eyeTag))
                 {
                     HasEye = true;
@@ -83,6 +88,8 @@ namespace PlayerSystem
                     CheckUsefulCollectables();
                     _collectable.gameObject.SetActive(false);
                     _collectable = null;
+
+                    _uiController.ShowItemMessage();
                 }
 
                 else if (_collectable.gameObject.CompareTag(_handTag))
@@ -92,6 +99,8 @@ namespace PlayerSystem
                     CheckUsefulCollectables();
                     _collectable.gameObject.SetActive(false);
                     _collectable = null;
+
+                    _uiController.ShowItemMessage();
                 }
 
                 else if (_collectable.gameObject.CompareTag(_greenCardTag))
@@ -101,6 +110,8 @@ namespace PlayerSystem
                     CheckUsefulCollectables();
                     _collectable.gameObject.SetActive(false);
                     _collectable = null;
+
+                    _uiController.ShowItemMessage();
                 }
 
                 else if (_collectable.gameObject.CompareTag(_purpleCardTag))
@@ -110,6 +121,8 @@ namespace PlayerSystem
                     CheckUsefulCollectables();
                     _collectable.gameObject.SetActive(false);
                     _collectable = null;
+
+                    _uiController.ShowItemMessage();
                 }
 
                 else if (_collectable.gameObject.CompareTag(_redCardTag))
@@ -119,6 +132,8 @@ namespace PlayerSystem
                     CheckUsefulCollectables();
                     _collectable.gameObject.SetActive(false);
                     _collectable = null;
+
+                    _uiController.ShowItemMessage();
                 }
 
                 else if (_collectable.gameObject.CompareTag(_tutorialNote)) 
@@ -126,6 +141,8 @@ namespace PlayerSystem
                     HasTutorialNote = true;
                     _collectable.gameObject.SetActive(false);
                     _collectable = null;
+
+                    _uiController.ShowNoteMessage();
                 }
 
                 else if (_collectable.gameObject.CompareTag(_timeToDieNote))
@@ -133,6 +150,8 @@ namespace PlayerSystem
                     HasTimeToDieNote = true;
                     _collectable.gameObject.SetActive(false);
                     _collectable = null;
+
+                    _uiController.ShowNoteMessage();
                 }
 
                 else if (_collectable.gameObject.CompareTag(_patientReportNote))
@@ -140,6 +159,8 @@ namespace PlayerSystem
                     HasPatientReportNote = true;
                     _collectable.gameObject.SetActive(false);
                     _collectable = null;
+
+                    _uiController.ShowNoteMessage();
                 }
 
                 else if (_collectable.gameObject.CompareTag(_sypNote))
@@ -147,6 +168,8 @@ namespace PlayerSystem
                     HasSypNote = true;
                     _collectable.gameObject.SetActive(false);
                     _collectable = null;
+
+                    _uiController.ShowNoteMessage();
                 }
 
                 else if (_collectable.gameObject.CompareTag(_noGodNote))
@@ -154,6 +177,8 @@ namespace PlayerSystem
                     HasNoGodNote = true;
                     _collectable.gameObject.SetActive(false);
                     _collectable = null;
+
+                    _uiController.ShowNoteMessage();
                 }
 
                 else if (_collectable.gameObject.CompareTag(_therapyNote))
@@ -161,6 +186,8 @@ namespace PlayerSystem
                     HasTherapyNote = true;
                     _collectable.gameObject.SetActive(false);
                     _collectable = null;
+
+                    _uiController.ShowNoteMessage();
                 }
 
                 else if (_collectable.gameObject.CompareTag(_whatTheyDidNote))
@@ -168,6 +195,8 @@ namespace PlayerSystem
                     HasWhatTheyDidNote = true;
                     _collectable.gameObject.SetActive(false);
                     _collectable = null;
+
+                    _uiController.ShowNoteMessage();
                 }
 
                 else if (_collectable.gameObject.CompareTag(_continueTestingNote))
@@ -175,6 +204,8 @@ namespace PlayerSystem
                     HasContinueTestingNote = true;
                     _collectable.gameObject.SetActive(false);
                     _collectable = null;
+
+                    _uiController.ShowNoteMessage();
                 }
             }
         }
@@ -197,6 +228,7 @@ namespace PlayerSystem
             {
                 elevatorClosed.SetActive(false);
                 elevatorOpened.SetActive(true);
+                _uiController.ShowCollectAllMessage();
             }
         }
     }

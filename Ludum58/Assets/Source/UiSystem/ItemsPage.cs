@@ -21,7 +21,7 @@ namespace UiSystem
         [SerializeField] private GameObject redCardPanel;
         [Space]
         [SerializeField] private AudioSource audioSource;
-        [SerializeField] private AudioClip buttonSound;
+        [SerializeField] private AudioClip buttonClip;
 
         private GameObject _previousPanel;
 
@@ -70,7 +70,7 @@ namespace UiSystem
 
         private void EyeButton()
         {
-            audioSource.PlayOneShot(buttonSound);
+            audioSource.PlayOneShot(buttonClip);
 
             if (_previousPanel)
                 _previousPanel.SetActive(false);
@@ -80,7 +80,7 @@ namespace UiSystem
 
         private void HandButton()
         {
-            audioSource.PlayOneShot(buttonSound);
+            audioSource.PlayOneShot(buttonClip);
 
             if (_previousPanel)
                 _previousPanel.SetActive(false);
@@ -90,7 +90,7 @@ namespace UiSystem
 
         private void GreenCardButton()
         {
-            audioSource.PlayOneShot(buttonSound);
+            audioSource.PlayOneShot(buttonClip);
 
             if (_previousPanel)
                 _previousPanel.SetActive(false);
@@ -100,7 +100,7 @@ namespace UiSystem
 
         private void PurpleCardButton()
         {
-            audioSource.PlayOneShot(buttonSound);
+            audioSource.PlayOneShot(buttonClip);
 
             if (_previousPanel)
                 _previousPanel.SetActive(false);
@@ -110,7 +110,7 @@ namespace UiSystem
 
         private void RedCardButton()
         {
-            audioSource.PlayOneShot(buttonSound);
+            audioSource.PlayOneShot(buttonClip);
 
             if (_previousPanel)
                 _previousPanel.SetActive(false);

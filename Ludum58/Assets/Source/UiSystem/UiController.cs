@@ -13,6 +13,11 @@ namespace UiSystem
         [Space]
         [SerializeField] private Image battery;
         [Space]
+        [SerializeField] private GameObject itemMessage;
+        [SerializeField] private GameObject noteMessage;
+        [SerializeField] private GameObject collectAllMessage;
+        [SerializeField] private float messageDuration = 1.5f;
+        [Space]
         [SerializeField] private Image loadPanel;
         [SerializeField] private float fadeDuration = 1f;
 
@@ -47,6 +52,33 @@ namespace UiSystem
         {
             if (pausePanel.IsPaused) return;
             journalPanel.SetJournal();
+            HideItemMessage();
+            HideNoteMessage();
+        }
+
+        public void ShowItemMessage() 
+        {
+            itemMessage.SetActive(true);
+            Invoke(nameof(HideItemMessage), messageDuration);
+        }
+        private void HideItemMessage() 
+        {
+            itemMessage.SetActive(false);
+        }
+
+        public void ShowNoteMessage()
+        {
+            noteMessage.SetActive(true);
+            Invoke(nameof(HideNoteMessage), messageDuration);
+        }
+        private void HideNoteMessage()
+        {
+            noteMessage.SetActive(false);
+        }
+
+        public void ShowCollectAllMessage() 
+        {
+            collectAllMessage.SetActive(true);
         }
 
         public void ReloadGame() 

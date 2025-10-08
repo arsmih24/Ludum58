@@ -11,6 +11,9 @@ namespace UiSystem
         [Space]
         [SerializeField] private Button playButton;
         [SerializeField] private Button exitButton;
+        [Space]
+        [SerializeField] private AudioSource audioSource;
+        [SerializeField] private AudioClip buttonClip;
 
         private void Awake()
         {
@@ -20,6 +23,8 @@ namespace UiSystem
 
         private void NextLevel() 
         {
+            audioSource.PlayOneShot(buttonClip);
+
             loadPanel.DOFade(1, fadeDuration).OnComplete(() =>
             {
                 Level.LoadNextLevel();
@@ -28,6 +33,8 @@ namespace UiSystem
 
         private void ExitGame() 
         {
+            audioSource.PlayOneShot(buttonClip);
+
             Application.Quit();
         }
 

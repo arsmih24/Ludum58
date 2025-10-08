@@ -11,6 +11,7 @@ namespace UiSystem
         [SerializeField] private GameObject panel;
         [Space]
         [SerializeField] private AudioSource audioSource;
+        [SerializeField] private AudioSource ambient;
         [SerializeField] private AudioClip panelClip;
         [SerializeField] private AudioClip buttonClip;
 
@@ -36,6 +37,7 @@ namespace UiSystem
         private void StartPause()
         {
             audioSource.PlayOneShot(panelClip);
+            ambient.Pause();
             panel.SetActive(true);
             Time.timeScale = 0.0f;
             _isPaused = true;
@@ -44,6 +46,7 @@ namespace UiSystem
         private void EndPause()
         {
             audioSource.PlayOneShot(panelClip);
+            ambient.UnPause();
             panel.SetActive(false);
             Time.timeScale = 1.0f;
             _isPaused = false;

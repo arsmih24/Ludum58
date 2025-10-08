@@ -27,7 +27,7 @@ namespace UiSystem
         [SerializeField] private GameObject continueTestingPanel;
         [Space]
         [SerializeField] private AudioSource audioSource;
-        [SerializeField] private AudioClip buttonSound;
+        [SerializeField] private AudioClip buttonClip;
 
         private GameObject _previousPanel;
 
@@ -88,7 +88,7 @@ namespace UiSystem
 
         private void TutorialButton() 
         {
-            audioSource.PlayOneShot(buttonSound);
+            audioSource.PlayOneShot(buttonClip);
 
             if (_previousPanel)
                 _previousPanel.SetActive(false);
@@ -98,7 +98,7 @@ namespace UiSystem
 
         private void TimeToDieButton()
         {
-            audioSource.PlayOneShot(buttonSound);
+            audioSource.PlayOneShot(buttonClip);
 
             if (_previousPanel)
                 _previousPanel.SetActive(false);
@@ -108,7 +108,7 @@ namespace UiSystem
 
         private void PatientReportButton()
         {
-            audioSource.PlayOneShot(buttonSound);
+            audioSource.PlayOneShot(buttonClip);
 
             if (_previousPanel)
                 _previousPanel.SetActive(false);
@@ -118,7 +118,7 @@ namespace UiSystem
 
         private void SypButton()
         {
-            audioSource.PlayOneShot(buttonSound);
+            audioSource.PlayOneShot(buttonClip);
 
             if (_previousPanel)
                 _previousPanel.SetActive(false);
@@ -128,7 +128,7 @@ namespace UiSystem
 
         private void NoGodButton()
         {
-            audioSource.PlayOneShot(buttonSound);
+            audioSource.PlayOneShot(buttonClip);
 
             if (_previousPanel)
                 _previousPanel.SetActive(false);
@@ -138,7 +138,7 @@ namespace UiSystem
 
         private void TherapyButton()
         {
-            audioSource.PlayOneShot(buttonSound);
+            audioSource.PlayOneShot(buttonClip);
 
             if (_previousPanel)
                 _previousPanel.SetActive(false);
@@ -148,7 +148,7 @@ namespace UiSystem
 
         private void WhatTheyDidButton()
         {
-            audioSource.PlayOneShot(buttonSound);
+            audioSource.PlayOneShot(buttonClip);
 
             if (_previousPanel)
                 _previousPanel.SetActive(false);
@@ -158,7 +158,7 @@ namespace UiSystem
 
         private void ContinueTestingButton()
         {
-            audioSource.PlayOneShot(buttonSound);
+            audioSource.PlayOneShot(buttonClip);
 
             if (_previousPanel)
                 _previousPanel.SetActive(false);
