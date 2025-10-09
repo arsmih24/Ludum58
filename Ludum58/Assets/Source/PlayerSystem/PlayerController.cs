@@ -8,8 +8,10 @@ namespace PlayerSystem
         [SerializeField] private GameObject elevatorClosed;
         [SerializeField] private GameObject elevatorOpened;
         [Space]
-        [SerializeField] private AudioSource audioSource;
+        [SerializeField] private AudioSource collectAudioSource;
+        [SerializeField] private AudioSource deathAudioSource;
         [SerializeField] private AudioClip collectClip;
+        [SerializeField] private AudioClip deathClip;
 
         public bool HasEye { get; private set; } = false;
         public bool HasHand { get; private set; } = false;
@@ -79,7 +81,7 @@ namespace PlayerSystem
         {
             if (_collectable) 
             {
-                audioSource.PlayOneShot(collectClip);
+                collectAudioSource.PlayOneShot(collectClip);
 
                 if (_collectable.gameObject.CompareTag(_eyeTag))
                 {
@@ -213,6 +215,7 @@ namespace PlayerSystem
         public void Death() 
         {
             _playerData.CanMove = false;
+            deathAudioSource.PlayOneShot(deathClip);
             _uiController.ReloadGame();
         }
 
