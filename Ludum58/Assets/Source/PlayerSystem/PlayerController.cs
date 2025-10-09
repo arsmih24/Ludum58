@@ -218,7 +218,6 @@ namespace PlayerSystem
 
         private void EndGame()
         {
-            _playerData.CanMove = false;
             _uiController.EndGame();
         }
 

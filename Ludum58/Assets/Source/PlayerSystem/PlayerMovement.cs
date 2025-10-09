@@ -13,7 +13,11 @@ namespace PlayerSystem
             bool moving;
             if (canMove)
                 moving = dir != Vector2.zero;
-            else moving = false;
+            else 
+            {
+                moving = false;
+                dir = new Vector2(0, 0);
+            }
 
             anim.SetBool("IsMoving", moving);
 
