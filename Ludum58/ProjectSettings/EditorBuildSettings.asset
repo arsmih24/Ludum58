@@ -9,8 +9,11 @@ EditorBuildSettings:
     path: Assets/Presentation/Scenes/MainMenu.unity
     guid: 025186686ae0b254fb18b3e35e983c60
   - enabled: 1
-    path: Assets/Presentation/Scenes/DevelopGleb.unity
+    path: Assets/Presentation/Scenes/Game.unity
     guid: 94d7dbe0ac693d047a07ac266a0b7ac4
+  - enabled: 1
+    path: Assets/Presentation/Scenes/FinishGame.unity
+    guid: ca4835a3fec1562428b875d912d579fc
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

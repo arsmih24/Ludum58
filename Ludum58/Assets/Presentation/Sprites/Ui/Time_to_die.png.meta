@@ -47,6 +47,9 @@ TextureImporter:
   - first:
       213: -7126667432786403374
     second: Time_to_die_14
+  - first:
+      213: -1474655906690381232
+    second: Time_to_die_15
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -180,9 +183,9 @@ TextureImporter:
       name: Time_to_die_1
       rect:
         serializedVersion: 2
-        x: 9
+        x: 10
         y: 420
-        width: 121
+        width: 120
         height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -204,7 +207,7 @@ TextureImporter:
         serializedVersion: 2
         x: 10
         y: 354
-        width: 153
+        width: 152
         height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -225,9 +228,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 10
-        y: 314
+        y: 332
         width: 364
-        height: 44
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -247,9 +250,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 10
-        y: 269
-        width: 362
-        height: 26
+        y: 314
+        width: 198
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -269,9 +272,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 10
-        y: 251
-        width: 59
-        height: 21
+        y: 269
+        width: 362
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -291,9 +294,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 10
-        y: 227
-        width: 377
-        height: 26
+        y: 251
+        width: 59
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -312,10 +315,10 @@ TextureImporter:
       name: Time_to_die_7
       rect:
         serializedVersion: 2
-        x: 10
-        y: 185
-        width: 356
-        height: 45
+        x: 9
+        y: 227
+        width: 378
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -335,9 +338,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 10
-        y: 167
-        width: 112
-        height: 23
+        y: 185
+        width: 356
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -357,9 +360,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 10
-        y: 143
-        width: 348
-        height: 26
+        y: 167
+        width: 112
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -379,8 +382,8 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 10
-        y: 101
-        width: 324
+        y: 143
+        width: 348
         height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -401,9 +404,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 10
-        y: 83
-        width: 67
-        height: 21
+        y: 101
+        width: 324
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -423,9 +426,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 10
-        y: 62
-        width: 326
-        height: 23
+        y: 83
+        width: 67
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -445,9 +448,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 10
-        y: 17
-        width: 361
-        height: 26
+        y: 62
+        width: 325
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -467,6 +470,28 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 10
+        y: 17
+        width: 361
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfdb648abdf81d90800000000000000
+      internalID: -7126667432786403374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_to_die_15
+      rect:
+        serializedVersion: 2
+        x: 10
         y: 0
         width: 36
         height: 21
@@ -478,8 +503,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2dfdb648abdf81d90800000000000000
-      internalID: -7126667432786403374
+      spriteID: 05ac9c31448f88be0800000000000000
+      internalID: -1474655906690381232
       vertices: []
       indices: 
       edges: []
@@ -505,6 +530,7 @@ TextureImporter:
       Time_to_die_12: 2697205026984459103
       Time_to_die_13: 8548360064542755673
       Time_to_die_14: -7126667432786403374
+      Time_to_die_15: -1474655906690381232
       Time_to_die_2: 8017627316008889017
       Time_to_die_3: 7385996707071751971
       Time_to_die_4: 3478567602062610872

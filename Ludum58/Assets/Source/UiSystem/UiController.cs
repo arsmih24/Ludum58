@@ -93,7 +93,7 @@ namespace UiSystem
         {
             loadPanel.DOFade(1, fadeDuration).OnComplete(() =>
             {
-                Level.MainMenu();
+                Level.LoadNextLevel();
             });
         }
     }
